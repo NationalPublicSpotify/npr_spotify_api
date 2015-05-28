@@ -1,12 +1,13 @@
 require 'httparty'
 
 class NprGenre
-    attr_reader :genres, :genre_list_words, :input, :genre_id
+    attr_reader :genres, :genre_page, :input, :genre_id
 
     def initialize(input)
       @genres = get_genre_array
       @input = input
       @genre_id = get_genre_id
+      @genre_page = genre_page
     end
 
     private def get_genre_array
@@ -23,13 +24,8 @@ class NprGenre
       "not found"
     end
 
-    def genre_page
-      "http://www.npr.org/music/genres/#{@input.downcase}/?ft=nprml&f=#{@genre_id}"
+    private def genre_page
+      HTTParty.get("http://www.npr.org/music/genres/#{@input.downcase}/?ft=nprml&f=#{@genre_id}")
     end
-
-    def article_link
-      genre_page['list']['link'][1]['$text']
-    end
-
 
 end

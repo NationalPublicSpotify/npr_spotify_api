@@ -6,7 +6,7 @@ class NprArtist
   def initialize(input)
     @input = input
     @subcategory = get_subcategory
-    @artist_id = subcategory_iteration
+    @artist_id = subcategory_iteration['subcategory']
   end
 
   def subcategory_iteration
@@ -22,13 +22,13 @@ class NprArtist
 
 
 
-  def get_subcategory
+  private def get_subcategory
     unparsed_artist = HTTParty.get("http://api.npr.org/list?id=3009&output=json")
-    JSON.parse(unparsed_artist)['subcategory']
+    JSON.parse(unparsed_artist)
   end
 
   def artist_page
-    "http://api.npr.org/query?id=162810939&apiKey=MDA1MTEzODY5MDEyOTc4NzIzODU0MTAxNA001"
+    HTTParty.get("http://api.npr.org/query?id=162810939&apiKey=#{ENV['NPR_KEY']}")
   end
 
 end

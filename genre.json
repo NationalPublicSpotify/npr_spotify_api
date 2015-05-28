@@ -1,0 +1,152 @@
+{
+"id": "3018",
+"typeid": "3018",
+"title": {
+"$text": "All Genres"
+},
+"item": [
+{
+"id": "139998151",
+"num": "1",
+"type": "genre",
+"title": {
+"$text": "Blues"
+},
+"additionalInfo": {
+"$text": "NPR Music stories that feature blues music."
+}
+},
+{
+"id": "10003",
+"num": "2",
+"type": "genre",
+"title": {
+"$text": "Classical"
+},
+"additionalInfo": {
+"$text": "Classical music performances and features from NPR news, NPR cultural programs, and NPR Music stations."
+}
+},
+{
+"id": "92792712",
+"num": "3",
+"type": "genre",
+"title": {
+"$text": "Country"
+},
+"additionalInfo": {
+"$text": "Performances and stories featuring traditions and innovations in American roots and country music."
+}
+},
+{
+"id": "135408474",
+"num": "4",
+"type": "genre",
+"title": {
+"$text": "Electronic/Dance"
+},
+"additionalInfo": {
+"$text": "Explore NPR Music's collection of stories and songs in the electronica/dance genre."
+}
+},
+{
+"id": "139999257",
+"num": "5",
+"type": "genre",
+"title": {
+"$text": "Folk"
+},
+"additionalInfo": {
+"$text": "NPR Music stories featuring folk music."
+}
+},
+{
+"id": "10005",
+"num": "6",
+"type": "genre",
+"title": {
+"$text": "Hip-Hop"
+},
+"additionalInfo": {
+"$text": "Urban music and features from NPR news, NPR cultural programs, and NPR Music stations."
+}
+},
+{
+"id": "10002",
+"num": "7",
+"type": "genre",
+"title": {
+"$text": "Jazz"
+},
+"additionalInfo": {
+"$text": "Jazz and blues music performances and features from NPR news, NPR cultural programs, and NPR Music stations."
+}
+},
+{
+"id": "139996449",
+"num": "8",
+"type": "genre",
+"title": {
+"$text": "Latin"
+},
+"additionalInfo": {
+"$text": "NPR Music stories featuring Latin Alternative music."
+}
+},
+{
+"id": "10006",
+"num": "9",
+"type": "genre",
+"title": {
+"$text": "Other"
+},
+"additionalInfo": {
+"$text": "Songs that don't fit into other categories"
+}
+},
+{
+"id": "139997200",
+"num": "10",
+"type": "genre",
+"title": {
+"$text": "Pop"
+},
+"additionalInfo": {
+"$text": "NPR Music stories that discuss pop music."
+}
+},
+{
+"id": "139998808",
+"num": "11",
+"type": "genre",
+"title": {
+"$text": "R&B/Soul"
+},
+"additionalInfo": {
+"$text": "NPR Music stories that feature R&B and soul music."
+}
+},
+{
+"id": "10001",
+"num": "12",
+"type": "genre",
+"title": {
+"$text": "Rock"
+},
+"additionalInfo": {
+"$text": "Rock, pop, and folk music performances and features from NPR news, NPR cultural programs, and NPR Music stations."
+}
+},
+{
+"id": "10004",
+"num": "13",
+"type": "genre",
+"title": {
+"$text": "World"
+},
+"additionalInfo": {
+"$text": "World music and features from NPR news, NPR cultural programs, and NPR Music stations."
+}
+}
+]
+}
