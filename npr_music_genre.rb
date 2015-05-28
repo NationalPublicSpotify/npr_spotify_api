@@ -1,7 +1,6 @@
 require 'httparty'
-require 'byebug'
 
-class NprMusicGenre
+class NprGenre
     attr_reader :genres, :genre_list_words, :input, :genre_id
 
     def initialize(input)
@@ -11,8 +10,8 @@ class NprMusicGenre
     end
 
     private def get_genre_array
-      unparsed = HTTParty.get("http://api.npr.org/list?id=3018&output=json")
-      genre_array = JSON.parse(unparsed)['item']
+      unparsed_genre = HTTParty.get("http://api.npr.org/list?id=3018&output=json")
+      genre_array = JSON.parse(unparsed_genre)['item']
     end
 
     def get_genre_id
