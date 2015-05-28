@@ -19,14 +19,13 @@ class NprMusicGenre
       @genres.each do |genre|
         if @input == genre['title']['$text']
           return genre['id']
-        else
-          return "genre not found"
         end
       end
+      "not found"
     end
 
     def genre_page
-      "http://api.npr.org/query?id=#{@genre_id}&output=JSON&apiKey=#{ENV['NPR_KEY']}"
+      "http://www.npr.org/music/genres/#{@input.downcase}/?ft=nprml&f=#{@genre_id}"
     end
 
     def article_link
@@ -35,7 +34,3 @@ class NprMusicGenre
 
 
 end
-
-npr_genres = NprMusicGenre.new("Classial")
-
-puts npr_genres.article_link
