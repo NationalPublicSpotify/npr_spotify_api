@@ -1,0 +1,41 @@
+require 'httparty'
+require 'byebug'
+
+class NprMusicGenre
+    attr_reader :genres, :genre_list_words, :input, :genre_id
+
+    def initialize(input)
+      @genres = get_genre_array
+      @input = input
+      @genre_id = get_genre_id
+    end
+
+    private def get_genre_array
+      unparsed = HTTParty.get("http://api.npr.org/list?id=3018&output=json")
+      genre_array = JSON.parse(unparsed)['item']
+    end
+
+    def get_genre_id
+      @genres.each do |genre|
+        if @input == genre['title']['$text']
+          return genre['id']
+        else
+          return "genre not found"
+        end
+      end
+    end
+
+    def genre_page
+      "http://api.npr.org/query?id=#{@genre_id}&output=JSON&apiKey=#{ENV['NPR_KEY']}"
+    end
+
+    def article_link
+      genre_page['list']['link'][1]['$text']
+    end
+
+
+end
+
+npr_genres = NprMusicGenre.new("Classial")
+
+puts npr_genres.article_link
