@@ -5,8 +5,8 @@ class NprArtist
 
   def initialize(input)
     @input = input
-    @subcategory = get_subcategory
-    @artist_id = subcategory_iteration['subcategory']
+    @subcategory = get_subcategory['subcategory']
+    @artist_id = subcategory_iteration
   end
 
   def subcategory_iteration
