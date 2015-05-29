@@ -21,6 +21,3 @@ class SpotifyAlbumSearch
   end
 
 end
-
-black = SpotifyAlbumSearch.new("Back in Black")
-puts black.album

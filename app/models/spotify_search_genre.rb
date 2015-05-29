@@ -1,10 +1,10 @@
 
 class SpotifySearchPlaylist
-  attr_reader :input, :path
+  attr_reader :input, :playlist
 
   def initialize(input)
     @input = input
-    @path = get_genre_playlist
+    @playlist = get_genre_playlist
   end
 
   private def get_genre_playlist
@@ -21,5 +21,3 @@ class SpotifySearchPlaylist
 
 
 end
-
-rock = SpotifySearchPlaylist.new('rock')
