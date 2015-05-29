@@ -1,4 +1,3 @@
-require 'httparty'
 
 class SpotifySearchPlaylist
   attr_reader :input, :path
@@ -24,4 +23,3 @@ class SpotifySearchPlaylist
 end
 
 rock = SpotifySearchPlaylist.new('rock')
-puts death_metal.path

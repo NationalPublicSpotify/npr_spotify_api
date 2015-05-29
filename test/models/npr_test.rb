@@ -1,24 +1,20 @@
-require 'minitest/autorun'
-require 'minitest/pride'
-require 'json'
-
-require './npr_music_genre'
-require './npr_artist'
+require 'test_helper'
+require './app/models/npr_music_genre.rb'
+require './app/models/npr_artist.rb'
 
 class NprArtist
   private def get_subcategory
-    JSON.parse(File.open("artist.json").read)
+    JSON.parse(File.open("./test/npr_artist.json").read)
   end
 end
 
 class NprGenre
   private def get_genre_array
-    JSON.parse(File.open("genre.json").read)
+    JSON.parse(File.open("./test/npr_genre.json").read)
   end
 end
 
-
-class NprTest < Minitest::Test
+class NprTest < ActiveSupport::TestCase
   def test_get_genre_id
     jazz = NprGenre.new("Jazz")
     beethoven = NprGenre.new("Beethoven")
@@ -32,6 +28,5 @@ class NprTest < Minitest::Test
     assert_equal '15394846', abba.artist_id
     assert_equal 'artist not found', nobody.artist_id
   end
-
 
 end

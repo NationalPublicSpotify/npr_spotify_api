@@ -1,0 +1,43 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=blitzen+trapper&offset=0&limit=20&type=artist",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 37728
+      },
+      "genres" : [ "indie christmas", "indie folk", "stomp and holler" ],
+      "href" : "https://api.spotify.com/v1/artists/72XY3HrDdFfZXNZFCT9Zh1",
+      "id" : "72XY3HrDdFfZXNZFCT9Zh1",
+      "images" : [ {
+        "height" : 802,
+        "url" : "https://i.scdn.co/image/ae562d1a92412b1fb73cd5a5ab629f1a70e69660",
+        "width" : 1000
+      }, {
+        "height" : 514,
+        "url" : "https://i.scdn.co/image/48351667f559e145ca51b2fe03ce49b8a92ec9c5",
+        "width" : 640
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/28c698b0c2ca4508f18e1381ec646dff2de4a065",
+        "width" : 199
+      }, {
+        "height" : 51,
+        "url" : "https://i.scdn.co/image/87bedd490d129a2f5d726c362469690bf645af8a",
+        "width" : 64
+      } ],
+      "name" : "Blitzen Trapper",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:72XY3HrDdFfZXNZFCT9Zh1"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1
+  }
+}

@@ -1,4 +1,3 @@
-require 'httparty'
 
 class NprGenre
     attr_reader :genres, :genre_page, :input, :genre_id

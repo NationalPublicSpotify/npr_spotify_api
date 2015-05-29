@@ -1,4 +1,3 @@
-require 'httparty'
 
 class NprArtist
   attr_reader :input, :subcategory, :artist_id

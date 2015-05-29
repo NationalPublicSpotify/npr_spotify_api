@@ -1,0 +1,723 @@
+{
+  "playlists" : {
+    "href" : "https://api.spotify.com/v1/search?query=blues&offset=0&limit=20&type=playlist",
+    "items" : [ {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/sonymusicthelegacy/playlist/57zcG5rzNtI8DYrUz0nVsP"
+      },
+      "href" : "https://api.spotify.com/v1/users/sonymusicthelegacy/playlists/57zcG5rzNtI8DYrUz0nVsP",
+      "id" : "57zcG5rzNtI8DYrUz0nVsP",
+      "images" : [ {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/4f80b13f028d26efd6d6af19bf7dd3b2b49ca66b",
+        "width" : 300
+      } ],
+      "name" : "Blues ",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/sonymusicthelegacy"
+        },
+        "href" : "https://api.spotify.com/v1/users/sonymusicthelegacy",
+        "id" : "sonymusicthelegacy",
+        "type" : "user",
+        "uri" : "spotify:user:sonymusicthelegacy"
+      },
+      "public" : null,
+      "snapshot_id" : "OpZz9A6ttnxxwp14Sq5VeXtn34tDxm8AzbwC2YENd/dwfMySjwluR+2jaYdvjx//",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/sonymusicthelegacy/playlists/57zcG5rzNtI8DYrUz0nVsP/tracks",
+        "total" : 83
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:sonymusicthelegacy:playlist:57zcG5rzNtI8DYrUz0nVsP"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/patrolbm/playlist/2tPBUqavgF89MBk6ET7TX0"
+      },
+      "href" : "https://api.spotify.com/v1/users/patrolbm/playlists/2tPBUqavgF89MBk6ET7TX0",
+      "id" : "2tPBUqavgF89MBk6ET7TX0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/ecc754de82c93a328ba9d2c512c09df009a2d6074da26d1108112734d71fe16d10ab5a0b6e022b63ae16e3c7495c8ba7eb969940de123a222f3a5ff59b09f78b2c9ddc5cd2fad6e5f13eab796b50fa33",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/ecc754de82c93a328ba9d2c512c09df009a2d6074da26d1108112734d71fe16d10ab5a0b6e022b63ae16e3c7495c8ba7eb969940de123a222f3a5ff59b09f78b2c9ddc5cd2fad6e5f13eab796b50fa33",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/ecc754de82c93a328ba9d2c512c09df009a2d6074da26d1108112734d71fe16d10ab5a0b6e022b63ae16e3c7495c8ba7eb969940de123a222f3a5ff59b09f78b2c9ddc5cd2fad6e5f13eab796b50fa33",
+        "width" : 60
+      } ],
+      "name" : "blues",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/patrolbm"
+        },
+        "href" : "https://api.spotify.com/v1/users/patrolbm",
+        "id" : "patrolbm",
+        "type" : "user",
+        "uri" : "spotify:user:patrolbm"
+      },
+      "public" : null,
+      "snapshot_id" : "+6s6PmZxpdycVNKpnvM84JQ+2vxRrOCO1hsEPaC6dS31+MPjQQ5b6FwNnmVCjiPZ",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/patrolbm/playlists/2tPBUqavgF89MBk6ET7TX0/tracks",
+        "total" : 625
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:patrolbm:playlist:2tPBUqavgF89MBk6ET7TX0"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/1275642783/playlist/2LuO1sy6g2YMN8m8AQtsdD"
+      },
+      "href" : "https://api.spotify.com/v1/users/1275642783/playlists/2LuO1sy6g2YMN8m8AQtsdD",
+      "id" : "2LuO1sy6g2YMN8m8AQtsdD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/db86a579e03d89f611188a6d4924d1e55c77d5af16215a1d4294058213338ca9826ecb4f4dd24b38c9992f22f369fe859887af0f59ec609d80170ef32c948a7069898df362aab1f68b635353f79e791d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/db86a579e03d89f611188a6d4924d1e55c77d5af16215a1d4294058213338ca9826ecb4f4dd24b38c9992f22f369fe859887af0f59ec609d80170ef32c948a7069898df362aab1f68b635353f79e791d",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/db86a579e03d89f611188a6d4924d1e55c77d5af16215a1d4294058213338ca9826ecb4f4dd24b38c9992f22f369fe859887af0f59ec609d80170ef32c948a7069898df362aab1f68b635353f79e791d",
+        "width" : 60
+      } ],
+      "name" : "BLUES",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/1275642783"
+        },
+        "href" : "https://api.spotify.com/v1/users/1275642783",
+        "id" : "1275642783",
+        "type" : "user",
+        "uri" : "spotify:user:1275642783"
+      },
+      "public" : null,
+      "snapshot_id" : "8BmwmTovLoSV0+ENQ8iQNd09eJVg2oBK36wJV2QBbYuQ8SxUOeqkorfxd43ZWYhm",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/1275642783/playlists/2LuO1sy6g2YMN8m8AQtsdD/tracks",
+        "total" : 1176
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:1275642783:playlist:2LuO1sy6g2YMN8m8AQtsdD"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/schlossneuschweinsteiger/playlist/0aXLGY96OfuEn4rs93bJ5C"
+      },
+      "href" : "https://api.spotify.com/v1/users/schlossneuschweinsteiger/playlists/0aXLGY96OfuEn4rs93bJ5C",
+      "id" : "0aXLGY96OfuEn4rs93bJ5C",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/d19130516d50a9f96ed038c7f27a69bac2ad8143",
+        "width" : 640
+      } ],
+      "name" : "Blues",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/schlossneuschweinsteiger"
+        },
+        "href" : "https://api.spotify.com/v1/users/schlossneuschweinsteiger",
+        "id" : "schlossneuschweinsteiger",
+        "type" : "user",
+        "uri" : "spotify:user:schlossneuschweinsteiger"
+      },
+      "public" : null,
+      "snapshot_id" : "UmhkQwJTEcGbQhkwZHKolWcUnAzqw6G1/CU5/32LdqF3OaEz4Jw1s6FaUVWw8+VY",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/schlossneuschweinsteiger/playlists/0aXLGY96OfuEn4rs93bJ5C/tracks",
+        "total" : 984
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:schlossneuschweinsteiger:playlist:0aXLGY96OfuEn4rs93bJ5C"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/1243448150/playlist/6VmiTnSpAW1FSRKmz0dL6L"
+      },
+      "href" : "https://api.spotify.com/v1/users/1243448150/playlists/6VmiTnSpAW1FSRKmz0dL6L",
+      "id" : "6VmiTnSpAW1FSRKmz0dL6L",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/9f66d19ebedf2cd54e66f1b573bf25833ac085b95b4b0002330fc92866d1b2cf31279f5188eecc62e320c933440904678ac62a9bb2b263b56f21033514ef902cdadefaad8eb0b7b526e0567f6606404e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/9f66d19ebedf2cd54e66f1b573bf25833ac085b95b4b0002330fc92866d1b2cf31279f5188eecc62e320c933440904678ac62a9bb2b263b56f21033514ef902cdadefaad8eb0b7b526e0567f6606404e",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/9f66d19ebedf2cd54e66f1b573bf25833ac085b95b4b0002330fc92866d1b2cf31279f5188eecc62e320c933440904678ac62a9bb2b263b56f21033514ef902cdadefaad8eb0b7b526e0567f6606404e",
+        "width" : 60
+      } ],
+      "name" : "Blues",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/1243448150"
+        },
+        "href" : "https://api.spotify.com/v1/users/1243448150",
+        "id" : "1243448150",
+        "type" : "user",
+        "uri" : "spotify:user:1243448150"
+      },
+      "public" : null,
+      "snapshot_id" : "dIHatdey6U8uRovLi42QCrQO+/qgkrO6HV/6kVizKIZfrXIAkvLD8IsObMr87i8A",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/1243448150/playlists/6VmiTnSpAW1FSRKmz0dL6L/tracks",
+        "total" : 554
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:1243448150:playlist:6VmiTnSpAW1FSRKmz0dL6L"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/robbaier/playlist/3xs6vtyTX4ZsxIHa8yJoOG"
+      },
+      "href" : "https://api.spotify.com/v1/users/robbaier/playlists/3xs6vtyTX4ZsxIHa8yJoOG",
+      "id" : "3xs6vtyTX4ZsxIHa8yJoOG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/7561522cf04bcc551b34fcc0da6cda4665792c3f6ba1a7109e051673f52e693f3faad963c5379434ae83436ef106d75e836e5c2aecddbdffa70884acced32f66f07d228a48a514ad188356eeee824c94",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/7561522cf04bcc551b34fcc0da6cda4665792c3f6ba1a7109e051673f52e693f3faad963c5379434ae83436ef106d75e836e5c2aecddbdffa70884acced32f66f07d228a48a514ad188356eeee824c94",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/7561522cf04bcc551b34fcc0da6cda4665792c3f6ba1a7109e051673f52e693f3faad963c5379434ae83436ef106d75e836e5c2aecddbdffa70884acced32f66f07d228a48a514ad188356eeee824c94",
+        "width" : 60
+      } ],
+      "name" : "Modern Blues Rock",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/robbaier"
+        },
+        "href" : "https://api.spotify.com/v1/users/robbaier",
+        "id" : "robbaier",
+        "type" : "user",
+        "uri" : "spotify:user:robbaier"
+      },
+      "public" : null,
+      "snapshot_id" : "InyBjRKB5BC3FgV1h4FNwBC0H8LjQZRRG0Z3J0U4UL7dhC0t4eWlaPMYLjXEL+UV",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/robbaier/playlists/3xs6vtyTX4ZsxIHa8yJoOG/tracks",
+        "total" : 191
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:robbaier:playlist:3xs6vtyTX4ZsxIHa8yJoOG"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/spotify/playlist/0BTnoKdfv5Y60EK5o5bGaq"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/0BTnoKdfv5Y60EK5o5bGaq",
+      "id" : "0BTnoKdfv5Y60EK5o5bGaq",
+      "images" : [ {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/062cc24e9bfe56d2142ce3e85f53a24a1401b28e",
+        "width" : 300
+      } ],
+      "name" : "Acoustic Blues",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "public" : null,
+      "snapshot_id" : "+5Nf+NFd/zBb02pB5wbvTrMOQ3buWCKS3qkyWfDA150dEbOFHkh3jBXay0wmwBgi",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/spotify/playlists/0BTnoKdfv5Y60EK5o5bGaq/tracks",
+        "total" : 39
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:spotify:playlist:0BTnoKdfv5Y60EK5o5bGaq"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/mlevinsson/playlist/5Kq0W6lr72IPFtsbPIVMcE"
+      },
+      "href" : "https://api.spotify.com/v1/users/mlevinsson/playlists/5Kq0W6lr72IPFtsbPIVMcE",
+      "id" : "5Kq0W6lr72IPFtsbPIVMcE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/0bd2b134a17c370ec7bcb9373801f7a34f24a987952ae6daf7d83388d8fb54f2c23bcefc045c73755f1076f9bf4f44bc49b1fb7b72a36bd1fc8fabeeb0ab06e39d1b5df21b04b350e573d4acf968f096",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/0bd2b134a17c370ec7bcb9373801f7a34f24a987952ae6daf7d83388d8fb54f2c23bcefc045c73755f1076f9bf4f44bc49b1fb7b72a36bd1fc8fabeeb0ab06e39d1b5df21b04b350e573d4acf968f096",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/0bd2b134a17c370ec7bcb9373801f7a34f24a987952ae6daf7d83388d8fb54f2c23bcefc045c73755f1076f9bf4f44bc49b1fb7b72a36bd1fc8fabeeb0ab06e39d1b5df21b04b350e573d4acf968f096",
+        "width" : 60
+      } ],
+      "name" : "Blues Harmonica",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/mlevinsson"
+        },
+        "href" : "https://api.spotify.com/v1/users/mlevinsson",
+        "id" : "mlevinsson",
+        "type" : "user",
+        "uri" : "spotify:user:mlevinsson"
+      },
+      "public" : null,
+      "snapshot_id" : "w+0VY6C+FHMZGK54MWs98wmL0Kbwzi0Moiy/XKGyfZr48/Qy8EIjjrunQGuCVMAM",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/mlevinsson/playlists/5Kq0W6lr72IPFtsbPIVMcE/tracks",
+        "total" : 114
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:mlevinsson:playlist:5Kq0W6lr72IPFtsbPIVMcE"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/frestomusic/playlist/0SYTm4vjHQmmydLFG8hi5l"
+      },
+      "href" : "https://api.spotify.com/v1/users/frestomusic/playlists/0SYTm4vjHQmmydLFG8hi5l",
+      "id" : "0SYTm4vjHQmmydLFG8hi5l",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/e43a16631edc79c768c79c5983d799cbba4ddb72a9d7e855a4ad6438030885dd5591d5a54320f58b13b01bbc78a1a4336ffe9a26627f6c8f28316bad9d8e057059f6c298d0cab14fff54fad4c3ddbe16",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/e43a16631edc79c768c79c5983d799cbba4ddb72a9d7e855a4ad6438030885dd5591d5a54320f58b13b01bbc78a1a4336ffe9a26627f6c8f28316bad9d8e057059f6c298d0cab14fff54fad4c3ddbe16",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/e43a16631edc79c768c79c5983d799cbba4ddb72a9d7e855a4ad6438030885dd5591d5a54320f58b13b01bbc78a1a4336ffe9a26627f6c8f28316bad9d8e057059f6c298d0cab14fff54fad4c3ddbe16",
+        "width" : 60
+      } ],
+      "name" : "Fresto Blues",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/frestomusic"
+        },
+        "href" : "https://api.spotify.com/v1/users/frestomusic",
+        "id" : "frestomusic",
+        "type" : "user",
+        "uri" : "spotify:user:frestomusic"
+      },
+      "public" : null,
+      "snapshot_id" : "W+/iIIFgOYLwSOYCUTs7KdqvdqXeelZfncYZ4Wbk4Op8ut7MT3xUMd0Y6qzdjD0Y",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/frestomusic/playlists/0SYTm4vjHQmmydLFG8hi5l/tracks",
+        "total" : 604
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:frestomusic:playlist:0SYTm4vjHQmmydLFG8hi5l"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/spotify/playlist/51QomqtpUugVlylop36SrC"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/51QomqtpUugVlylop36SrC",
+      "id" : "51QomqtpUugVlylop36SrC",
+      "images" : [ {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d81230635ffd95af14eef1b5da3a988d6c13a44e",
+        "width" : 300
+      } ],
+      "name" : "Blues Roots",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "public" : null,
+      "snapshot_id" : "Ag2E4Ql6e9h6oZr1m4zlx0BMn2jxGEb6uA65okA/4Sq8/dMFFoCgWr7tCxcVmpno",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/spotify/playlists/51QomqtpUugVlylop36SrC/tracks",
+        "total" : 44
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:spotify:playlist:51QomqtpUugVlylop36SrC"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/spotify/playlist/339IIz2BoOlGAbE7pZ1nJp"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/339IIz2BoOlGAbE7pZ1nJp",
+      "id" : "339IIz2BoOlGAbE7pZ1nJp",
+      "images" : [ {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/10dbe22bc1586c425dd646459aee09029933c5c0",
+        "width" : 300
+      } ],
+      "name" : "In The Name Of Blues",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "public" : null,
+      "snapshot_id" : "KZQjuPZ6rTccoF47QriYFhhqgO+HgdB6nYJpgbS109km/kvlWyuBRjxLJNdl4pKu",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/spotify/playlists/339IIz2BoOlGAbE7pZ1nJp/tracks",
+        "total" : 35
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:spotify:playlist:339IIz2BoOlGAbE7pZ1nJp"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/legacysweden/playlist/5TkTomPbQuSNDxdlWg2fCx"
+      },
+      "href" : "https://api.spotify.com/v1/users/legacysweden/playlists/5TkTomPbQuSNDxdlWg2fCx",
+      "id" : "5TkTomPbQuSNDxdlWg2fCx",
+      "images" : [ {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/795ff024b69260ca3588d07750fdd0a742f1d4cf",
+        "width" : 300
+      } ],
+      "name" : "BLUES MASTERS",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/legacysweden"
+        },
+        "href" : "https://api.spotify.com/v1/users/legacysweden",
+        "id" : "legacysweden",
+        "type" : "user",
+        "uri" : "spotify:user:legacysweden"
+      },
+      "public" : null,
+      "snapshot_id" : "x+qr/LcG6ngyGQ7jMdnvvv2jTcEGBvYuQUb8IhpJuW9/4JIdII+sXVR0KR0FcDtb",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/legacysweden/playlists/5TkTomPbQuSNDxdlWg2fCx/tracks",
+        "total" : 199
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:legacysweden:playlist:5TkTomPbQuSNDxdlWg2fCx"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/1135188972/playlist/79ma1BygLb17fOvjiIYCSf"
+      },
+      "href" : "https://api.spotify.com/v1/users/1135188972/playlists/79ma1BygLb17fOvjiIYCSf",
+      "id" : "79ma1BygLb17fOvjiIYCSf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/21518a14e7b38cf44fe45e242bdf5211b1ea685235a7846577d4a31a4be26d0e4f494c21d4ca0967cf1636e0aa09d9aa1501b0057513f8959983b94aaa1757b43c43192212e57e7a35fc0485d429e220",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/21518a14e7b38cf44fe45e242bdf5211b1ea685235a7846577d4a31a4be26d0e4f494c21d4ca0967cf1636e0aa09d9aa1501b0057513f8959983b94aaa1757b43c43192212e57e7a35fc0485d429e220",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/21518a14e7b38cf44fe45e242bdf5211b1ea685235a7846577d4a31a4be26d0e4f494c21d4ca0967cf1636e0aa09d9aa1501b0057513f8959983b94aaa1757b43c43192212e57e7a35fc0485d429e220",
+        "width" : 60
+      } ],
+      "name" : "Chicago Blues",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/1135188972"
+        },
+        "href" : "https://api.spotify.com/v1/users/1135188972",
+        "id" : "1135188972",
+        "type" : "user",
+        "uri" : "spotify:user:1135188972"
+      },
+      "public" : null,
+      "snapshot_id" : "TPCaH3vftSKaCs6uZeh9Dc2KwHKZ+nGHceVMm6/aSwU6sDknaCKIviyiwgyFXeuA",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/1135188972/playlists/79ma1BygLb17fOvjiIYCSf/tracks",
+        "total" : 265
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:1135188972:playlist:79ma1BygLb17fOvjiIYCSf"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/1247344928/playlist/517pdE0IQPfCgqYp9olMa1"
+      },
+      "href" : "https://api.spotify.com/v1/users/1247344928/playlists/517pdE0IQPfCgqYp9olMa1",
+      "id" : "517pdE0IQPfCgqYp9olMa1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/aac61f02f77ca5cc98e6587b8d080210d38eab28e08013329388bfea197042e08939f5de9035be4e07f641d0242d778c4c5b1b3185aadd8078bf338428e58bcdb8a9b1fa1478f594e6d3c49534bee9b8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/aac61f02f77ca5cc98e6587b8d080210d38eab28e08013329388bfea197042e08939f5de9035be4e07f641d0242d778c4c5b1b3185aadd8078bf338428e58bcdb8a9b1fa1478f594e6d3c49534bee9b8",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/aac61f02f77ca5cc98e6587b8d080210d38eab28e08013329388bfea197042e08939f5de9035be4e07f641d0242d778c4c5b1b3185aadd8078bf338428e58bcdb8a9b1fa1478f594e6d3c49534bee9b8",
+        "width" : 60
+      } ],
+      "name" : "delta blues",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/1247344928"
+        },
+        "href" : "https://api.spotify.com/v1/users/1247344928",
+        "id" : "1247344928",
+        "type" : "user",
+        "uri" : "spotify:user:1247344928"
+      },
+      "public" : null,
+      "snapshot_id" : "k/tTyQuw2FlFIrb70MxSPPhXVv4zU+87gViaL1E+H3V+26a5zyBlmlVmXXpM0/Y+",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/1247344928/playlists/517pdE0IQPfCgqYp9olMa1/tracks",
+        "total" : 529
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:1247344928:playlist:517pdE0IQPfCgqYp9olMa1"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/1169085965/playlist/777JvEP83HKzSVdS8tkEMh"
+      },
+      "href" : "https://api.spotify.com/v1/users/1169085965/playlists/777JvEP83HKzSVdS8tkEMh",
+      "id" : "777JvEP83HKzSVdS8tkEMh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/23e8f4ad1e2e573c885f2e1728c9b7dbaa64f64ee320c933440904678ac62a9bb2b263b56f210335770c14358e22aa2d2239738e53958a0c0cbc7bbf62d2f10b7cff312595b52b5a4ec11dbd80b1bafb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/23e8f4ad1e2e573c885f2e1728c9b7dbaa64f64ee320c933440904678ac62a9bb2b263b56f210335770c14358e22aa2d2239738e53958a0c0cbc7bbf62d2f10b7cff312595b52b5a4ec11dbd80b1bafb",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/23e8f4ad1e2e573c885f2e1728c9b7dbaa64f64ee320c933440904678ac62a9bb2b263b56f210335770c14358e22aa2d2239738e53958a0c0cbc7bbf62d2f10b7cff312595b52b5a4ec11dbd80b1bafb",
+        "width" : 60
+      } ],
+      "name" : "Blues",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/1169085965"
+        },
+        "href" : "https://api.spotify.com/v1/users/1169085965",
+        "id" : "1169085965",
+        "type" : "user",
+        "uri" : "spotify:user:1169085965"
+      },
+      "public" : null,
+      "snapshot_id" : "/qDk56D0Uy2H+Qp+vggCzp8lWbONYwH7GsLoAr2UAhN/ZspeKhe25MsACveTO3Ts",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/1169085965/playlists/777JvEP83HKzSVdS8tkEMh/tracks",
+        "total" : 46
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:1169085965:playlist:777JvEP83HKzSVdS8tkEMh"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/sifesifon/playlist/5naUmfPUCclfgwzmUrS4NI"
+      },
+      "href" : "https://api.spotify.com/v1/users/sifesifon/playlists/5naUmfPUCclfgwzmUrS4NI",
+      "id" : "5naUmfPUCclfgwzmUrS4NI",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/becdcec7e2bdf964ba3eba08d87eb8d915180a30a46769e844343a52a6e8a5d0c13d0ada37cb5bf4f5468cad3c982d58eb385fec2e0f7361bd0ec9f6922827a0483e8097458da37e91d81c00a1014c2e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/becdcec7e2bdf964ba3eba08d87eb8d915180a30a46769e844343a52a6e8a5d0c13d0ada37cb5bf4f5468cad3c982d58eb385fec2e0f7361bd0ec9f6922827a0483e8097458da37e91d81c00a1014c2e",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/becdcec7e2bdf964ba3eba08d87eb8d915180a30a46769e844343a52a6e8a5d0c13d0ada37cb5bf4f5468cad3c982d58eb385fec2e0f7361bd0ec9f6922827a0483e8097458da37e91d81c00a1014c2e",
+        "width" : 60
+      } ],
+      "name" : "Jazz-Blues-Soul-Funk-Swing-Black",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/sifesifon"
+        },
+        "href" : "https://api.spotify.com/v1/users/sifesifon",
+        "id" : "sifesifon",
+        "type" : "user",
+        "uri" : "spotify:user:sifesifon"
+      },
+      "public" : null,
+      "snapshot_id" : "EVez2QzVC2umkvTVklR8FPKx0wEZuWKPeqa78/cV/5n3Zpk0BNlsI0/qMRT6Ux/h",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/sifesifon/playlists/5naUmfPUCclfgwzmUrS4NI/tracks",
+        "total" : 426
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:sifesifon:playlist:5naUmfPUCclfgwzmUrS4NI"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/1123365498/playlist/0VxRQffBi0xlixKnfgFuUO"
+      },
+      "href" : "https://api.spotify.com/v1/users/1123365498/playlists/0VxRQffBi0xlixKnfgFuUO",
+      "id" : "0VxRQffBi0xlixKnfgFuUO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/08e19f92f7c01452c1fa882cdaae3a4b05d8a0a99d8e057059f6c298d0cab14fff54fad4c3ddbe162d9f3c038f4cdb427efed4b2a988e3f07c5152784da26d1108112734d71fe16d10ab5a0b6e022b63",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/08e19f92f7c01452c1fa882cdaae3a4b05d8a0a99d8e057059f6c298d0cab14fff54fad4c3ddbe162d9f3c038f4cdb427efed4b2a988e3f07c5152784da26d1108112734d71fe16d10ab5a0b6e022b63",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/08e19f92f7c01452c1fa882cdaae3a4b05d8a0a99d8e057059f6c298d0cab14fff54fad4c3ddbe162d9f3c038f4cdb427efed4b2a988e3f07c5152784da26d1108112734d71fe16d10ab5a0b6e022b63",
+        "width" : 60
+      } ],
+      "name" : "blues",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/1123365498"
+        },
+        "href" : "https://api.spotify.com/v1/users/1123365498",
+        "id" : "1123365498",
+        "type" : "user",
+        "uri" : "spotify:user:1123365498"
+      },
+      "public" : null,
+      "snapshot_id" : "F/4NGqEQnT4qjFdFblnG4CK/X7dAEAcrPmJOEFncEqx74RggKPctj76u3YuyIppL",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/1123365498/playlists/0VxRQffBi0xlixKnfgFuUO/tracks",
+        "total" : 226
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:1123365498:playlist:0VxRQffBi0xlixKnfgFuUO"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/11101760136/playlist/79ZYXVLaQj1zqfTjOVz8pw"
+      },
+      "href" : "https://api.spotify.com/v1/users/11101760136/playlists/79ZYXVLaQj1zqfTjOVz8pw",
+      "id" : "79ZYXVLaQj1zqfTjOVz8pw",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/7917def941067ad185874f97465154625781210e449908f09bf609c5c6b2bdc6e0fa2487824b8410923be98c362455744fe325ff14522aa6af75974ba3ec4963c68bdcd6568f912f64d84b6e1ef9867f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/7917def941067ad185874f97465154625781210e449908f09bf609c5c6b2bdc6e0fa2487824b8410923be98c362455744fe325ff14522aa6af75974ba3ec4963c68bdcd6568f912f64d84b6e1ef9867f",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/7917def941067ad185874f97465154625781210e449908f09bf609c5c6b2bdc6e0fa2487824b8410923be98c362455744fe325ff14522aa6af75974ba3ec4963c68bdcd6568f912f64d84b6e1ef9867f",
+        "width" : 60
+      } ],
+      "name" : "Blues-Rock ",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/11101760136"
+        },
+        "href" : "https://api.spotify.com/v1/users/11101760136",
+        "id" : "11101760136",
+        "type" : "user",
+        "uri" : "spotify:user:11101760136"
+      },
+      "public" : null,
+      "snapshot_id" : "OZb++sSo6I0VNxwfH30BXZzheHetwQ6QRmJOy8Edy8SDmBRin9J4LqeAlL0AjiHR",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/11101760136/playlists/79ZYXVLaQj1zqfTjOVz8pw/tracks",
+        "total" : 219
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:11101760136:playlist:79ZYXVLaQj1zqfTjOVz8pw"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/gavilans1/playlist/7JwNCX4BbkeIvTopQvt5G1"
+      },
+      "href" : "https://api.spotify.com/v1/users/gavilans1/playlists/7JwNCX4BbkeIvTopQvt5G1",
+      "id" : "7JwNCX4BbkeIvTopQvt5G1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/ad272fb53cbb8ab4cc60f495ccd46450b64aff0e70982edb8410b595a427249c3b4f5719d359e65e063e034d538352a9f7199ae6ffef8b14d353fb8f7316865efe4d7d5b8e5801cb94ef7adc0d9a4582",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/ad272fb53cbb8ab4cc60f495ccd46450b64aff0e70982edb8410b595a427249c3b4f5719d359e65e063e034d538352a9f7199ae6ffef8b14d353fb8f7316865efe4d7d5b8e5801cb94ef7adc0d9a4582",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/ad272fb53cbb8ab4cc60f495ccd46450b64aff0e70982edb8410b595a427249c3b4f5719d359e65e063e034d538352a9f7199ae6ffef8b14d353fb8f7316865efe4d7d5b8e5801cb94ef7adc0d9a4582",
+        "width" : 60
+      } ],
+      "name" : "Blues, Rock and more",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/gavilans1"
+        },
+        "href" : "https://api.spotify.com/v1/users/gavilans1",
+        "id" : "gavilans1",
+        "type" : "user",
+        "uri" : "spotify:user:gavilans1"
+      },
+      "public" : null,
+      "snapshot_id" : "RN/S2Pp9Yz09x3zbSaEwwQGghicmyVZoWkiX3osDOAt/LpC4Xe9ri2m0wNHWiraB",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/gavilans1/playlists/7JwNCX4BbkeIvTopQvt5G1/tracks",
+        "total" : 480
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:gavilans1:playlist:7JwNCX4BbkeIvTopQvt5G1"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "http://open.spotify.com/user/118521145/playlist/1m0zDNtGX4aFCUMr1Qwq16"
+      },
+      "href" : "https://api.spotify.com/v1/users/118521145/playlists/1m0zDNtGX4aFCUMr1Qwq16",
+      "id" : "1m0zDNtGX4aFCUMr1Qwq16",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/4d6fa42ed33fcdf0676249ccdc777f33f7f7d6d83288eda905d14a7765ac813055e07ed5d6e4db307b0cd20c007313f19c23c7e160f3742ff89370485762fb18c50ad387bdbf43f606401b0ac7a2d227",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/4d6fa42ed33fcdf0676249ccdc777f33f7f7d6d83288eda905d14a7765ac813055e07ed5d6e4db307b0cd20c007313f19c23c7e160f3742ff89370485762fb18c50ad387bdbf43f606401b0ac7a2d227",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/4d6fa42ed33fcdf0676249ccdc777f33f7f7d6d83288eda905d14a7765ac813055e07ed5d6e4db307b0cd20c007313f19c23c7e160f3742ff89370485762fb18c50ad387bdbf43f606401b0ac7a2d227",
+        "width" : 60
+      } ],
+      "name" : "BLUES",
+      "owner" : {
+        "external_urls" : {
+          "spotify" : "http://open.spotify.com/user/118521145"
+        },
+        "href" : "https://api.spotify.com/v1/users/118521145",
+        "id" : "118521145",
+        "type" : "user",
+        "uri" : "spotify:user:118521145"
+      },
+      "public" : null,
+      "snapshot_id" : "E7iAhvawOyofGRKLLwAs7aBcC2sVf9ma7gaOoDKj16aFwzvkIvOUuAVosLohPWIF",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/users/118521145/playlists/1m0zDNtGX4aFCUMr1Qwq16/tracks",
+        "total" : 101
+      },
+      "type" : "playlist",
+      "uri" : "spotify:user:118521145:playlist:1m0zDNtGX4aFCUMr1Qwq16"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=blues&offset=20&limit=20&type=playlist",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 2986
+  }
+}

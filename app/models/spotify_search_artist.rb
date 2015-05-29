@@ -1,4 +1,3 @@
-require 'httparty'
 
 class SpotifySearchArtist
   attr_reader :artist, :input, :artist_img
@@ -29,16 +28,3 @@ class SpotifySearchArtist
   end
 
 end
-
-blitzen_trapper = SpotifySearchArtist.new("Blitzen Trapper")
-zac_brown_band = SpotifySearchArtist.new("Zac Brown Band")
-
-puts blitzen_trapper.artist_img
-puts zac_brown_band.artist_img
-
-
-nobody = SpotifySearchArtist.new("iuhgrehg")
-puts nobody.artist_img
-
-no_image = SpotifySearchArtist.new("blah")
-puts no_image.artist_img

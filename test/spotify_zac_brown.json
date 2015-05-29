@@ -1,0 +1,103 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=zac+brown+band&offset=0&limit=20&type=artist",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 539713
+      },
+      "genres" : [ "country road" ],
+      "href" : "https://api.spotify.com/v1/artists/6yJCxee7QumYr820xdIsjo",
+      "id" : "6yJCxee7QumYr820xdIsjo",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/b36ed9c2561cd9d6e11afd03790e635944d9aa03",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/928ddc0cd5746c766223265e42cd8dd85686a500",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/0c51183ac20159073f45461dc5bad8cec6594d63",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/bf33557092c8dc17327102a03e6f69fdc4d040a7",
+        "width" : 64
+      } ],
+      "name" : "Zac Brown Band",
+      "popularity" : 84,
+      "type" : "artist",
+      "uri" : "spotify:artist:6yJCxee7QumYr820xdIsjo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4I2G1HdXL6jT5UQMFCC6sO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 42
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4I2G1HdXL6jT5UQMFCC6sO",
+      "id" : "4I2G1HdXL6jT5UQMFCC6sO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/d31dbec972e0fd8666bdbb0d570233f2d0f92184",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/9df3956997391e7eec088e80ddde28e3cae223de",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/0130c5bfabefed7dd13b33af661a3baf5c7d1728",
+        "width" : 64
+      } ],
+      "name" : "Zac Brown Band Karaoke",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4I2G1HdXL6jT5UQMFCC6sO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2w916JewkeFMKg51MWZh0I"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2w916JewkeFMKg51MWZh0I",
+      "id" : "2w916JewkeFMKg51MWZh0I",
+      "images" : [ ],
+      "name" : "Zac Brown Karaoke Band",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2w916JewkeFMKg51MWZh0I"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3myEGiyQTq3067osgh6NGk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3myEGiyQTq3067osgh6NGk",
+      "id" : "3myEGiyQTq3067osgh6NGk",
+      "images" : [ ],
+      "name" : "Made famous by Zac Brown Band",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:3myEGiyQTq3067osgh6NGk"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4
+  }
+}
