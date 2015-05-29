@@ -5,7 +5,15 @@ class SpotifySearchPlaylist
 
   def initialize(input)
     @input = input
-    @path = get_path['playlists']['items'][0]['external_urls']['spotify']
+    @path = get_genre_playlist
+  end
+
+  private def get_genre_playlist
+    if get_path['playlists']['items'] != []
+      get_path['playlists']['items'][0]['external_urls']['spotify']
+    else
+      'no genre available'
+    end
   end
 
   private def get_path
@@ -15,5 +23,5 @@ class SpotifySearchPlaylist
 
 end
 
-death_metal = SpotifySearchPlaylist.new('death metal')
+death_metal = SpotifySearchPlaylist.new('rock')
 puts death_metal.path
