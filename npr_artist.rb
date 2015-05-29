@@ -1,7 +1,7 @@
 require 'httparty'
 
 class NprArtist
-  attr_reader :input, :subcategory
+  attr_reader :input, :subcategory, :artist_id
 
   def initialize(input)
     @input = input

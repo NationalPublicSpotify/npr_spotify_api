@@ -26,5 +26,12 @@ class NprTest < Minitest::Test
     assert_equal "not found", beethoven.genre_id
   end
 
+  def test_get_artist_id
+    abba = NprArtist.new("Abba")
+    nobody = NprArtist.new("nobody")
+    assert_equal '15394846', abba.artist_id
+    assert_equal 'artist not found', nobody.artist_id
+  end
+
 
 end
