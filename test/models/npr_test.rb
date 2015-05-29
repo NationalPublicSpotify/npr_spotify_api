@@ -15,6 +15,7 @@ class NprGenre
 end
 
 class NprTest < ActiveSupport::TestCase
+
   def test_get_genre_id
     jazz = NprGenre.new("Jazz")
     beethoven = NprGenre.new("Beethoven")
