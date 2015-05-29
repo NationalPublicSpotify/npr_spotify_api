@@ -32,7 +32,3 @@ class NprArtist
   end
 
 end
-
-abba = NprArtist.new("Milton Babbitt")
-
-puts abba.subcategory_iteration
