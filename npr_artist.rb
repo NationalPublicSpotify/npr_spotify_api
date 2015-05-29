@@ -12,9 +12,7 @@ class NprArtist
   def subcategory_iteration
     subcategory.each do |hash_by_letter|
       hash_by_letter['item'].each do |i|
-        if input == i['title']['$text']
-          return i['id']
-        end
+        return i['id'] if input == i['title']['$text']
       end
     end
     "artist not found"
