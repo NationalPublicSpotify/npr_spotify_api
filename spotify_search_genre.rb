@@ -23,5 +23,5 @@ class SpotifySearchPlaylist
 
 end
 
-death_metal = SpotifySearchPlaylist.new('rock')
+rock = SpotifySearchPlaylist.new('rock')
 puts death_metal.path
