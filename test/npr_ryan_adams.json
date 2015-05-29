@@ -1,0 +1,4817 @@
+{
+"version": "0.94",
+"list": {
+"title": {
+"$text": "NPR Artist: Ryan Adams"
+},
+"teaser": {
+"$text": "Ryan Adams artist page: interviews, features and/or performances archived at NPR Music"
+},
+"miniTeaser": {},
+"link": [
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=14953534&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+},
+{
+"type": "html",
+"$text": "http://www.npr.org/artists/14953534/ryan-adams?ft=nprml&f=14953534"
+}
+],
+"story": [
+{
+"id": "385536730",
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/allsongs/2015/03/31/385536730/new-mix-ryan-adams-jamie-xx-the-civil-wars-joy-williams-more?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=385536730&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+},
+{
+"type": "short",
+"$text": "http://n.pr/1Eb33HR"
+}
+],
+"title": {
+"$text": "New Mix: Ryan Adams, Jamie xx, The Civil Wars' Joy Williams, More "
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "<em>All Songs Considered</em> hosts Robin Hilton and Bob Boilen play this week's essential new songs, including Jamie xx and Joy Williams of the band The Civil Wars, and a classic by Ryan Adams."
+},
+"miniTeaser": {
+"$text": "Hear this week's essential songs from <em>All Songs Considered </em>hosts Bob Boilen and Robin Hilton."
+},
+"slug": {
+"$text": "All Songs Considered"
+},
+"thumbnail": {
+"medium": {
+"$text": "http://media.npr.org/assets/img/2015/03/31/collage20150331_sq-c369fbce1a4b90a9849407ff3fcd3d920fe71335.jpg?s=13"
+},
+"large": {
+"$text": "http://media.npr.org/assets/img/2015/03/31/collage20150331_sq-c369fbce1a4b90a9849407ff3fcd3d920fe71335.jpg?s=11"
+},
+"provider": {
+"$text": "Courtesy of the artists"
+}
+},
+"storyDate": {
+"$text": "Tue, 31 Mar 2015 12:40:00 -0400"
+},
+"pubDate": {
+"$text": "Tue, 31 Mar 2015 13:42:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Tue, 31 Mar 2015 13:43:08 -0400"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "1",
+"orgAbbr": "NPR",
+"name": {
+"$text": "NPR"
+},
+"website": {
+"$text": "http://www.npr.org/"
+}
+}
+],
+"parent": [
+{
+"id": "1039",
+"type": "primaryTopic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "164710583",
+"type": "collection",
+"title": {
+"$text": "All Songs Featured 1"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/164710583/all-songs-featured-1?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=164710583&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "163479981",
+"type": "category",
+"title": {
+"$text": "Our Show"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/allsongs/163479981/our-show?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=163479981&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "15709577",
+"type": "blog",
+"slug": "true",
+"title": {
+"$text": "All Songs Considered"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/allsongs/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=15709577&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "10001",
+"type": "genre",
+"title": {
+"$text": "Rock"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/genres/rock/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=10001&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1039",
+"type": "topic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1002",
+"type": "topic",
+"title": {
+"$text": "Home Page Top Stories"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"audio": [
+{
+"id": "396582571",
+"type": "primary",
+"title": {
+"$text": "Hear The Discussion And Songs"
+},
+"duration": {
+"$text": "2444"
+},
+"description": {},
+"format": {
+"mp3": [
+{
+"type": "m3u",
+"$text": "http://api.npr.org/m3u/1396582571-84b002.m3u?orgId=1&topicId=1039&d=2444&story=385536730&ft=nprml&f=14953534"
+}
+],
+"wm": {
+"$text": "http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=396582571&type=1&mtype=WM&orgId=1&topicId=1039&d=2444&story=385536730&ft=nprml&f=14953534"
+},
+"mp4": {
+"$text": "http://pd.npr.org/npr-mp4/npr/asc/2015/03/20150331_asc_wholeshow.mp4?orgId=1&topicId=1039&d=2444&story=385536730&ft=nprml&f=14953534"
+},
+"mediastream": {
+"$text": "rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/asc/2015/03/20150331_asc_wholeshow.mp3"
+}
+},
+"region": {
+"$text": "all"
+},
+"rightsHolder": {},
+"permissions": {
+"download": {
+"allow": "true"
+},
+"stream": {
+"allow": "true"
+},
+"embed": {
+"allow": "true"
+}
+},
+"stream": {
+"active": "false"
+}
+}
+],
+"byline": [
+{
+"id": "396358939",
+"name": {
+"personId": "91465290",
+"$text": "Robin Hilton"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/people/91465290/robin-hilton?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=91465290&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "396358936",
+"name": {
+"personId": "2100252",
+"$text": "Bob Boilen"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/people/2100252/bob-boilen?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=2100252&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"image": [
+{
+"id": "396582220",
+"type": "primary",
+"width": "200",
+"src": "http://media.npr.org/assets/img/2015/03/31/collage20150331-87aa4e08a7d21dcb48c797c61a14113e5f3f6e03.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Clockwise from upper left: Ryan Adams, Jamie xx, Joy Williams, Eskimeaux"
+},
+"caption": {
+"$text": "Clockwise from upper left: Ryan Adams, Jamie xx, Joy Williams, Eskimeaux"
+},
+"link": {
+"url": ""
+},
+"producer": {},
+"provider": {
+"url": "",
+"$text": "Courtesy of the artists"
+},
+"copyright": {},
+"crop": [
+{
+"type": "standard",
+"src": "http://media.npr.org/assets/img/2015/03/31/collage20150331-87aa4e08a7d21dcb48c797c61a14113e5f3f6e03.jpg",
+"height": "750",
+"width": "1000",
+"primary": "true"
+},
+{
+"type": "square",
+"src": "http://media.npr.org/assets/img/2015/03/31/collage20150331_sq-c369fbce1a4b90a9849407ff3fcd3d920fe71335.jpg",
+"height": "1000",
+"width": "1000"
+},
+{
+"type": "wide",
+"src": "http://media.npr.org/assets/img/2015/03/31/collage20150331_wide-9ba92bf73ca8ad2dae748d4f21e44fb85b84b27e.jpg",
+"height": "561",
+"width": "1000"
+},
+{
+"type": "brick",
+"src": "http://media.npr.org/assets/img/2015/03/31/collage20150331_brick-09037910f373cd21e0e01c09be31afc9a555821c.jpg",
+"height": "552",
+"width": "1200"
+}
+]
+}
+],
+"relatedLink": [
+{
+"id": "396580636",
+"type": "internal",
+"caption": {
+"$text": "Hear The Songs"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/allsongs/2015/03/31/385536730/new-mix-ryan-adams-jamie-xx-the-civil-wars-joy-williams-more?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=385536730&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"song": [
+{
+"id": "396414090",
+"title": {
+"$text": "Woman (Oh Mama) "
+},
+"subtitle": {},
+"artist": {
+"$text": "Joy Williams"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "1"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "396414025"
+},
+"albumTitle": {
+"$text": "VENUS"
+},
+"albumArtist": {
+"$text": "Joy Williams"
+},
+"albumYear": {
+"$text": "1969"
+},
+"upc": {},
+"label": {},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "not specified"
+},
+"coverUrl": {
+"$text": "/assets/music/programs/asc/2015/03/joywill.jpg"
+}
+}
+},
+{
+"id": "396412623",
+"title": {
+"$text": "Alligator Years"
+},
+"subtitle": {},
+"artist": {
+"$text": "Twinsmith"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "2"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "396412622"
+},
+"albumTitle": {
+"$text": "Alligator Years"
+},
+"albumArtist": {
+"$text": "Twinsmith"
+},
+"albumYear": {
+"$text": "1969"
+},
+"upc": {},
+"label": {},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "not specified"
+},
+"coverUrl": {
+"$text": "/assets/music/programs/asc/2015/03/twinsmith.jpg"
+}
+}
+},
+{
+"id": "396395893",
+"title": {
+"$text": "Warm Enemy"
+},
+"subtitle": {},
+"artist": {
+"$text": "Christopher Paul Stelling"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "1"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "396395797"
+},
+"albumTitle": {
+"$text": "Labor Against Waste"
+},
+"albumArtist": {
+"$text": "Christopher Paul Stelling"
+},
+"albumYear": {
+"$text": "1969"
+},
+"upc": {},
+"label": {},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "not specified"
+},
+"coverUrl": {
+"$text": "/assets/music/programs/asc/2015/03/chritopherpaul.jpg"
+}
+}
+},
+{
+"id": "396415749",
+"title": {
+"$text": "New York, New York "
+},
+"subtitle": {},
+"artist": {
+"$text": "Ryan Adams"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "9"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "396395060"
+},
+"albumTitle": {
+"$text": "Live At Carnegie Hall"
+},
+"albumArtist": {
+"$text": "Ryan Adams"
+},
+"albumYear": {
+"$text": "1969"
+},
+"upc": {},
+"label": {},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "not specified"
+},
+"coverUrl": {
+"$text": "/assets/music/programs/asc/2015/03/ryanadams.jpg"
+}
+}
+},
+{
+"id": "396396181",
+"title": {
+"$text": "I Admit I'm Scared"
+},
+"subtitle": {},
+"artist": {
+"$text": "Eskimeaux"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "1"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "396396180"
+},
+"albumTitle": {
+"$text": "O.K."
+},
+"albumArtist": {
+"$text": "Eskimeaux"
+},
+"albumYear": {
+"$text": "1969"
+},
+"upc": {},
+"label": {},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "not specified"
+},
+"coverUrl": {
+"$text": "/assets/music/programs/asc/2015/03/eskimeaux.jpg"
+}
+}
+},
+{
+"id": "396395574",
+"title": {
+"$text": "Loud Places"
+},
+"subtitle": {},
+"artist": {
+"$text": "Jamie xx (feat. Romy)"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "8"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "396395244"
+},
+"albumTitle": {
+"$text": "In Colour"
+},
+"albumArtist": {
+"$text": "Jamie xx"
+},
+"albumYear": {
+"$text": "1969"
+},
+"upc": {},
+"label": {},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "not specified"
+},
+"coverUrl": {
+"$text": "/assets/music/programs/asc/2015/03/jamiexx.jpg"
+}
+}
+},
+{
+"id": "396396391",
+"title": {
+"$text": "Mistakes"
+},
+"subtitle": {},
+"artist": {
+"$text": "Gianna Lauren"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "1"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "396396362"
+},
+"albumTitle": {
+"$text": "Mistakes"
+},
+"albumArtist": {
+"$text": "Gianna Lauren"
+},
+"albumYear": {
+"$text": "1969"
+},
+"upc": {},
+"label": {},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "not specified"
+},
+"coverUrl": {
+"$text": "/assets/music/programs/asc/2015/03/mistakes.jpg"
+}
+}
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "On All Songs Considered this week, we hear two songs by familiar musicians, one stripped down to his essence and one in a brand new context. Ryan Adams is at his best live, playing solo acoustic hits, with lots of comical chatter. The prolific singer and songwriter has a massive live album coming out with 42 songs recorded at Carnegie Hall. From that collection, we've got Adams' rock anthem \"New York, New York,\" slowed waaaay down for solo piano (along with his seemingly random oratory on the film Terminator 2). The intense folk duo The Civil Wars broke up intensely around the release of its second album; that group's Joy Williams just announced her first solo album, and offers up a single, \"Woman (Oh Mama),\" that introduces a fresh pop sound."
+},
+{
+"num": "2",
+"$text": "Also on thee show, Jamie xx, founder of the deeply meditative pop band The xx, serves up club beats on a new cut from his debut solo album In Colour. We also have a quartet of discoveries: Eskimeaux, of Brooklyn art collective The Epoch, a colorful new single by Canadian songwriter Gianna Lauren infectious pop track from Midwest rockers Twinsmith and Florida songwriter Christopher Paul Stelling brings his incredible finger picking from the road to the studio."
+},
+{
+"num": "3",
+"$text": "But first, we give one last nod to the South By Southwest music festivals' biggest legacy: head colds. [Copyright 2015 NPR]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "On <em>All Songs Considered </em>this week, we hear two songs by familiar musicians, one stripped down to his essence and one in a brand new context. <a href=\"http://www.npr.org/artists/14953534/ryan-adams\">Ryan Adams</a> is at his best live, playing solo acoustic hits, with lots of comical chatter. The prolific singer and songwriter has a massive live album coming out with 42 songs recorded at Carnegie Hall. From that collection, we've got Adams' rock anthem \"New York, New York,\" slowed waaaay down for solo piano (along with his seemingly random oratory on the film <em>Terminator 2</em>). The intense folk duo The Civil Wars <a href=\"http://www.npr.org/blogs/therecord/2013/07/15/201089924/watch-the-civil-wars-live-up-to-their-name-in-a-behind-the-scenes-video\" target=\"_blank\">broke up intensely</a> around the release of its second album; that group's Joy Williams just announced her first solo album, and offers up a single, \"Woman (Oh Mama),\" that introduces a fresh pop sound."
+},
+{
+"num": "2",
+"$text": "Also on thee show, <a href=\"http://www.npr.org/artists/396361486/jamie-xx\">Jamie xx</a>, founder of the deeply meditative pop band The xx, serves up club beats on a new cut from his debut solo album <em>In Colour. </em>We also have a quartet of discoveries: <a href=\"http://www.npr.org/artists/396393732/eskimeaux\" target=\"_blank\">Eskimeaux</a>, of Brooklyn art collective The Epoch, a colorful new single by Canadian songwriter <a href=\"http://www.npr.org/artists/396393266/gianna-lauren\">Gianna Lauren</a> infectious pop track from Midwest rockers <a href=\"http://www.npr.org/artists/396417275/twinsmith\">Twinsmith</a> and Florida songwriter <a href=\"http://www.npr.org/artists/396367005/christopher-paul-stelling\">Christopher Paul Stelling</a> brings his incredible finger picking from the road to the studio."
+},
+{
+"num": "3",
+"$text": "But first, we give one last nod to the South By Southwest music festivals' biggest legacy: head colds.  <div class=\"fullattribution\">Copyright 2015 NPR. To see more, visit <a href=\"http://www.npr.org/\">http://www.npr.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=New+Mix%3A+Ryan+Adams%2C+Jamie+xx%2C+The+Civil+Wars%27+Joy+Williams%2C+More+&utme=8(APIKey)9(MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001)\"/></div>"
+}
+]
+},
+"fullText": {
+"$text": "<div class=\"storytitle\">      <h1>New Mix: Ryan Adams, Jamie xx, The Civil Wars' Joy Williams, More </h1>   <input type=\"hidden\" id=\"title385536730\" value=\"New Mix: Ryan Adams, Jamie xx, The Civil Wars' Joy Williams, More \"></input>   <input type=\"hidden\" id=\"modelShortUrl385536730\" value=\"http://n.pr/1Eb31jk\"></input>   <input type=\"hidden\" id=\"modelFullUrl385536730\" value=\"http://www.npr.org/sections/allsongs/2015/03/31/385536730/new-mix-ryan-adams-jamie-xx-the-civil-wars-joy-williams-more\"></input></div><!-- END CLASS=\"STORYTITLE\" --><div id=\"story-meta\">      <div class=\"dateblock\">            <time datetime=\"2015-03-31\"><span class=\"date\">March 31, 2015</span><span class=\"time\">12:40 PM ET</span></time>   </div>   <div id=\"storybyline\" class=\"  linkLocation\">            <div class=\"bucketwrap byline\" id=\"res385536733\" previewTitle=\"bylines\">                  <div class=\"blockBylines\">                        <div class=\"blockByline linked hasImage\">      <div class=\"bioImageWrap\">            <a class=\"\" rel=\"author\" href=\"http://www.npr.org/people/91465290/robin-hilton\"  data-metrics='{\"action\":\"Click Byline\",\"category\":\"Story Metadata\"}' ><img src=\"http://media.npr.org/assets/img/2014/12/08/robin2_sq-41c4e962096784e6e13c62ee25287327b3eac46c-s300.jpg\" title=\"Robin Hilton\" alt=\"Robin Hilton\" /></a>   </div>   <!-- END CLASS=\"BIOIMAGEWRAP\" -->   <div class=\"rightContainer\">            <a class=\"nameWrap\" rel=\"author\" href=\"http://www.npr.org/people/91465290/robin-hilton\"  data-metrics='{\"action\":\"Click Byline\",\"category\":\"Story Metadata\"}' ><div class=\"nameOuter\">      <div class=\"nameInner\">      Robin Hilton   </div></div></a>      <div id=\"socialHandleLoc\" class=\" linkLocation\">                  <a class=\"bylineSocialHandle bylineSocialHandle-5\" href=\"http://www.twitter.com/nprobin\"  data-metrics='{\"action\":\"Click Social Handle\",\"category\":\"Story Metadata\"}' >Twitter</a>         <span class=\"spacer\"></span>      </div>   </div>   <!-- END CLASS=\"RIGHTCONTAINER\" --></div>            <div class=\"blockByline linked hasImage\">      <div class=\"bioImageWrap\">            <a class=\"\" rel=\"author\" href=\"http://www.npr.org/people/2100252/bob-boilen\"  data-metrics='{\"action\":\"Click Byline\",\"category\":\"Story Metadata\"}' ><img src=\"http://media.npr.org/assets/img/2014/12/08/bob_sq-58db34714b374aa9efd1793ffd9df1e3c6bcb18a-s300.jpg\" title=\"Bob Boilen\" alt=\"Bob Boilen\" /></a>   </div>   <!-- END CLASS=\"BIOIMAGEWRAP\" -->   <div class=\"rightContainer\">            <a class=\"nameWrap\" rel=\"author\" href=\"http://www.npr.org/people/2100252/bob-boilen\"  data-metrics='{\"action\":\"Click Byline\",\"category\":\"Story Metadata\"}' ><div class=\"nameOuter\">      <div class=\"nameInner\">      Bob Boilen   </div></div></a>      <div id=\"socialHandleLoc\" class=\" linkLocation\">                  <a class=\"bylineSocialHandle bylineSocialHandle-5\" href=\"http://www.twitter.com/allsongs\"  data-metrics='{\"action\":\"Click Social Handle\",\"category\":\"Story Metadata\"}' >Twitter</a>         <span class=\"spacer\"></span>         <a class=\"bylineSocialHandle bylineSocialHandle-2\" href=\"http://instagram.com/tinydesk\"  data-metrics='{\"action\":\"Click Social Handle\",\"category\":\"Story Metadata\"}' >Instagram</a>         <span class=\"spacer\"></span>      </div>   </div>   <!-- END CLASS=\"RIGHTCONTAINER\" --></div>         </div>      </div>      <!-- END CLASS=\"BUCKETWRAP BYLINE\" ID=\"RES385536733\" PREVIEWTITLE=\"BYLINES\" -->   </div></div><!-- END ID=\"STORY-META\" --><div id=\"primaryaudio\" class=\"storylocation linkLocation\">      <div id=\"res396582571\" class=\"bucketwrap primary resaudio  clearfix large\">            <div class=\"player-core\">                  <div class=\"listenicon\">                        <a class=\"listen\" href=\"http://www.npr.org/templates/player/mediaPlayer.html?action=1&t=1&islist=false&id=385536730&m=396582571&d=null\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Play Audio\",\"label\":\"20150331_asc_wholeshow.mp3\"}' ></a>         </div>         <!-- END CLASS=\"LISTENICON\" -->         <div id=\"avcontent396582571\" class=\"avcontent listen\">                        <h3><a href=\"http://www.npr.org/templates/player/mediaPlayer.html?action=1&t=1&islist=false&id=385536730&m=396582571&d=null\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Play Audio\",\"label\":\"20150331_asc_wholeshow.mp3\"}' >Hear The Discussion And Songs</a></h3>            <div class=\"inner\">                              <div class=\"duration\">                                    <b id=\"durationCurrent396582571\" class=\"current\"></b>                  <b class=\"total\">40:44</b>               </div>            </div>            <!-- END CLASS=\"INNER\" -->            <b id=\"mediaTimeTotal396582571\" class=\"media-time-total\"><b id=\"mediaTimeCurrent396582571\" class=\"media-time-current\"></b><b class=\"scrubber\"></b></b>         </div>         <!-- END ID=\"AVCONTENT396582571\" CLASS=\"AVCONTENT LISTEN\" -->      </div>      <!-- END CLASS=\"PLAYER-CORE\" -->      <ul class=\"audiotools has-embed\">                  <li class=\"playlist\"><a class=\"add\" href=\"http://www.npr.org/templates/player/mediaPlayer.html?action=2&t=1&islist=false&id=385536730&m=396582571&d=null\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Add Audio To Playlist\",\"label\":\"20150331_asc_wholeshow.mp3\"}' ><span>Playlist</span></a></li>         <li><a class=\"download\" href=\"http://pd.npr.org/anon.npr-mp3/npr/asc/2015/03/20150331_asc_wholeshow.mp3?dl=1\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Download Audio\",\"label\":\"20150331_asc_wholeshow.mp3\"}' ><span>Download</span></a></li>         <li><a class=\"embed\" href=\"#\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Embed\",\"label\":\"20150331_asc_wholeshow.mp3\"}' ><span>Embed</span></a><div class=\"audio-embed-modal\">      <b class=\"embed-label\">Embed</b>   <button class=\"embed-close\">Close embed modal</button>   <b class=\"embed-url embed-url-touch\"><code><b class=\"punctuation\"><</b>iframe src=\"http://www.npr.org/player/embed/385536730/396582571\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\"></iframe></code></b>   <input class=\"embed-url embed-url-no-touch\" readonly value=\"<iframe src=\"http://www.npr.org/player/embed/385536730/396582571\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\"></iframe>\"></input></div></li>      </ul>   </div>   <!-- END ID=\"RES396582571\" CLASS=\"BUCKETWRAP PRIMARY RESAUDIO  CLEARFIX LARGE\" -->   <div id=\"res396580636\" class=\"bucketwrap  internallink playlistintlink\">            <div class=\"playlistlnk\">                  <div class=\"listenicon\">                        <a href=\"#playlist\"  data-metrics='{\"category\":\"Story to Story\",\"action\":\"Click Internal Link\",\"label\":\"#playlist\"}' ></a>         </div>         <!-- END CLASS=\"LISTENICON\" -->         <div class=\"avcontent listen\">                        <h3><a href=\"#playlist\"  data-metrics='{\"category\":\"Story to Story\",\"action\":\"Click Internal Link\",\"label\":\"#playlist\"}' >Hear The Songs</a></h3>         </div>         <!-- END CLASS=\"AVCONTENT LISTEN\" -->      </div>      <!-- END CLASS=\"PLAYLISTLNK\" -->   </div>   <!-- END ID=\"RES396580636\" CLASS=\"BUCKETWRAP  INTERNALLINK PLAYLISTINTLINK\" --></div><div id=\"storytext\" class=\"storytext storylocation linkLocation\">      <div id=\"res396582220\" class=\"bucketwrap image large\" previewTitle=\"Clockwise from upper left: Ryan Adams, Jamie xx, Joy Williams, Eskimeaux\">            <div class=\"imagewrap\" data-crop-type=\"\">    <img src=\"http://media.npr.org/assets/img/2015/03/31/collage20150331-87aa4e08a7d21dcb48c797c61a14113e5f3f6e03-s1000.jpg\" title=\"Clockwise from upper left: Ryan Adams, Jamie xx, Joy Williams, Eskimeaux\" alt=\"Clockwise from upper left: Ryan Adams, Jamie xx, Joy Williams, Eskimeaux\" /></div><div class=\"credit-caption\">    <div class=\"caption\">        <p><i>            Clockwise from upper left: Ryan Adams, Jamie xx, Joy Williams, Eskimeaux            </i>        </p>    </div>        <span class=\"credit\">                Courtesy of the artists            </span></div>   </div>   <p>On <em>All Songs Considered </em>this week, we hear two songs by familiar musicians, one stripped down to his essence and one in a brand new context. <a href=\"http://www.npr.org/artists/14953534/ryan-adams\">Ryan Adams</a> is at his best live, playing solo acoustic hits, with lots of comical chatter. The prolific singer and songwriter has a massive live album coming out with 42 songs recorded at Carnegie Hall. From that collection, we've got Adams' rock anthem \"New York, New York,\" slowed waaaay down for solo piano (along with his seemingly random oratory on the film <em>Terminator 2</em>). The intense folk duo The Civil Wars <a href=\"http://www.npr.org/blogs/therecord/2013/07/15/201089924/watch-the-civil-wars-live-up-to-their-name-in-a-behind-the-scenes-video\" target=\"_blank\">broke up intensely</a> around the release of its second album; that group's Joy Williams just announced her first solo album, and offers up a single, \"Woman (Oh Mama),\" that introduces a fresh pop sound.</p>   <p>Also on thee show, <a href=\"http://www.npr.org/artists/396361486/jamie-xx\">Jamie xx</a>, founder of the deeply meditative pop band The xx, serves up club beats on a new cut from his debut solo album <em>In Colour. </em>We also have a quartet of discoveries: <a href=\"http://www.npr.org/artists/396393732/eskimeaux\" target=\"_blank\">Eskimeaux</a>, of Brooklyn art collective The Epoch, a colorful new single by Canadian songwriter <a href=\"http://www.npr.org/artists/396393266/gianna-lauren\">Gianna Lauren</a> infectious pop track from Midwest rockers <a href=\"http://www.npr.org/artists/396417275/twinsmith\">Twinsmith</a> and Florida songwriter <a href=\"http://www.npr.org/artists/396367005/christopher-paul-stelling\">Christopher Paul Stelling</a> brings his incredible finger picking from the road to the studio.</p>   <p>But first, we give one last nod to the South By Southwest music festivals' biggest legacy: head colds.</p></div><div class=\"fullattribution\">Copyright 2015 NPR. To see more, visit <a href=\"http://www.npr.org/\">http://www.npr.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=New+Mix%3A+Ryan+Adams%2C+Jamie+xx%2C+The+Civil+Wars%27+Joy+Williams%2C+More+&utme=8(APIKey)9(MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001)\"/></div>"
+},
+"collection": [
+{
+"type": "list",
+"displayType": "Music Classic Playlist",
+"id": "396570845",
+"title": {
+"$text": "Songs Featured On This Episode"
+},
+"introText": {},
+"member": [
+{
+"refId": "396570847",
+"num": "1",
+"label": "none"
+},
+{
+"refId": "396570883",
+"num": "2",
+"label": "none"
+},
+{
+"refId": "396570940",
+"num": "3",
+"label": "none"
+},
+{
+"refId": "396570978",
+"num": "4",
+"label": "none"
+},
+{
+"refId": "396571000",
+"num": "5",
+"label": "none"
+},
+{
+"refId": "396571014",
+"num": "6",
+"label": "none"
+},
+{
+"refId": "396571053",
+"num": "7",
+"label": "none"
+}
+]
+}
+],
+"member": [
+{
+"id": "396570847",
+"title": {
+"num": "1",
+"$text": "Joy Williams"
+},
+"song": {
+"refId": "396414090",
+"num": "2"
+},
+"introText": {
+"num": "3",
+"$text": "<p>Since break up of The Civil Wars, her Americana duo with John Paul White, vocalist Joy Williams has partnered with pop songwriter and producer Matt Morris for a new solo album. Her first single, \"Woman (Oh Mama),\" is an uncharacteristically jubilant return. Her album, <em>VENUS,</em> comes out this summer.</p>"
+}
+},
+{
+"id": "396570883",
+"title": {
+"num": "1",
+"$text": "Twinsmith"
+},
+"song": {
+"refId": "396412623",
+"num": "2"
+},
+"introText": {
+"num": "3",
+"$text": "<p>Twinsmith is four guys from Nebraska who recently signed to Saddle Creek Records. The title track to the group's new album, <em>Alligator Years,</em> is just under three minutes of playful pop with hooks that will make you want to move. <em>Alligator Years</em> arrives May 4.</p>"
+}
+},
+{
+"id": "396570940",
+"title": {
+"num": "1",
+"$text": "Christopher Paul Stelling"
+},
+"song": {
+"refId": "396395893",
+"num": "2"
+},
+"introText": {
+"num": "3",
+"$text": "<p>Masterful guitar picker Christopher Paul Stelling plays with raw emotion perfected by his time on the road. The Florida-native estimates he's played more than 400 shows in the last three years, which you can hear in the powerful \"Warm Enemy.\" His new album<em> Labor Against Waste</em> comes out June 16.</p>"
+}
+},
+{
+"id": "396570978",
+"title": {
+"num": "1",
+"$text": "Ryan Adams"
+},
+"song": {
+"refId": "396415749",
+"num": "2"
+},
+"introText": {
+"num": "3",
+"$text": "<p>Recorded over two nights last November, Ryan Adams' new album <em>Live At Carnegie Hall</em> presents a career-spanning set list stripped down to only piano or guitar and voice. For his anthemic rock song \"New York, New York,\" Adams slowed things way down to find the song's profound heartache. Adams' 42-track live LP is due out April 21.</p>"
+}
+},
+{
+"id": "396571000",
+"title": {
+"num": "1",
+"$text": "Eskimeaux"
+},
+"song": {
+"refId": "396396181",
+"num": "2"
+},
+"introText": {
+"num": "3",
+"$text": "<p>Songwriter and producer Gabrielle Smith gets personal as Eskimeaux, with a new album that began as a bedroom recording. Her song \"I Admit I'm Scared\" weaves together folk and electronics with profound storytelling straight from the heart. Her new album, <em>O.K.,</em> comes out May 12.</p>"
+}
+},
+{
+"id": "396571014",
+"title": {
+"num": "1",
+"$text": "Jamie xx"
+},
+"song": {
+"refId": "396395574",
+"num": "2"
+},
+"introText": {
+"num": "3",
+"$text": "<p>In his solo work, British producer Jamie xx of always-restrained British trio The xx leans toward the dance floor. On this single from his debut solo album, is joined by bandmate Romy Madley Croft, \"Loud Places\" swells under Romy's voice. Jamie xx's solo album, <em>In Colour,</em> arrives June 2.</p>"
+}
+},
+{
+"id": "396571053",
+"title": {
+"num": "1",
+"$text": "Gianna Lauren"
+},
+"song": {
+"refId": "396396391",
+"num": "2"
+},
+"introText": {
+"num": "3",
+"$text": "<p>Canadian songwriter Gianna Lauren begins \"Mistakes\" with ominous bass and woozy guitars that shift in steps and to complement her bright vocals and sporadic electronics. With an album expected sometime this fall, the Halifax-based musician will release her single on April 7.</p>"
+}
+}
+]
+},
+{
+"id": "257630463",
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/world-cafe/2014/09/09/257630463/ryan-adams-on-world-cafe?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=257630463&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+},
+{
+"type": "short",
+"$text": "http://n.pr/1btCLAx"
+}
+],
+"title": {
+"$text": "Ryan Adams On World Cafe"
+},
+"subtitle": {
+"$text": "Performs Unreleased Track 'The Door' For The First Time"
+},
+"shortTitle": {},
+"teaser": {
+"$text": "The roots-rock singer just released his self-titled 14th album. But the big news coming out of his <em>World Cafe</em> session was the debut of an unreleased song called \"The Door.\""
+},
+"miniTeaser": {
+"$text": "The roots-rock singer performs an unreleased song, \"The Door,\" for the first time publicly."
+},
+"slug": {
+"$text": "World Cafe"
+},
+"thumbnail": {
+"medium": {
+"$text": "http://media.npr.org/assets/img/2014/09/08/img_0178_sq-8f1bc706e3857df7a8f716a950c0e7a18ede27ff.jpg?s=13"
+},
+"large": {
+"$text": "http://media.npr.org/assets/img/2014/09/08/img_0178_sq-8f1bc706e3857df7a8f716a950c0e7a18ede27ff.jpg?s=11"
+},
+"provider": {
+"$text": "WXPN"
+}
+},
+"storyDate": {
+"$text": "Tue, 09 Sep 2014 08:03:00 -0400"
+},
+"pubDate": {
+"$text": "Mon, 29 Dec 2014 10:36:00 -0500"
+},
+"lastModifiedDate": {
+"$text": "Mon, 29 Dec 2014 10:36:14 -0500"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "715",
+"orgAbbr": "WXPN",
+"name": {
+"$text": "WXPN-FM"
+},
+"website": {
+"$text": "http://www.xpn.org/"
+}
+}
+],
+"parent": [
+{
+"id": "1103",
+"type": "primaryTopic",
+"title": {
+"$text": "Studio Sessions"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/studio-sessions/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1103&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "373786768",
+"type": "category",
+"title": {
+"$text": "Best Interviews Of 2014"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/world-cafe/373786768/best-interviews-of-2014?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=373786768&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "248471401",
+"type": "collection",
+"title": {
+"$text": "World Cafe 2"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/248471401/world-cafe-2?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=248471401&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "216864430",
+"type": "category",
+"title": {
+"$text": "Studio Sessions"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/world-cafe/216864430/studio-sessions?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=216864430&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "216835831",
+"type": "blog",
+"slug": "true",
+"title": {
+"$text": "World Cafe"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/world-cafe/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=216835831&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "10001",
+"type": "genre",
+"title": {
+"$text": "Rock"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/genres/rock/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=10001&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1103",
+"type": "topic",
+"title": {
+"$text": "Studio Sessions"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/studio-sessions/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1103&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1039",
+"type": "topic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"container": [
+{
+"id": "346896148",
+"title": {
+"$text": "Set List"
+},
+"introText": {},
+"colSpan": {
+"$text": "1"
+},
+"displayOptions": {
+"typeId": "2",
+"$text": "Display Both"
+},
+"listText": {
+"refId": "346895729",
+"num": "1"
+}
+}
+],
+"image": [
+{
+"id": "346895203",
+"type": "primary",
+"width": "200",
+"src": "http://media.npr.org/assets/img/2014/09/08/img_0178_wide-7436ad68fa567bd35852129b9641c4dad8817af8.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Ryan Adams performs live in World Cafe's studio."
+},
+"caption": {
+"$text": "Ryan Adams performs live in <em>World Cafe</em>'s studio."
+},
+"link": {
+"url": ""
+},
+"producer": {
+"$text": "John Vettese"
+},
+"provider": {
+"url": "",
+"$text": "WXPN"
+},
+"copyright": {},
+"enlargement": {
+"src": "http://media.npr.org/assets/img/2014/09/08/img_0178_wide-7436ad68fa567bd35852129b9641c4dad8817af8.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "http://media.npr.org/assets/img/2014/09/08/img_0178-5ab4fcaac946c28a6b0ac8284c81442026aa2365.jpg",
+"height": "3452",
+"width": "4603"
+},
+{
+"type": "square",
+"src": "http://media.npr.org/assets/img/2014/09/08/img_0178_sq-8f1bc706e3857df7a8f716a950c0e7a18ede27ff.jpg",
+"height": "3353",
+"width": "3353"
+},
+{
+"type": "wide",
+"src": "http://media.npr.org/assets/img/2014/09/08/img_0178_wide-7436ad68fa567bd35852129b9641c4dad8817af8.jpg",
+"height": "2916",
+"width": "5184",
+"primary": "true"
+},
+{
+"type": "enlargement",
+"src": "http://media.npr.org/assets/img/2014/09/08/img_0178_wide-7436ad68fa567bd35852129b9641c4dad8817af8.jpg",
+"height": "2916",
+"width": "5184"
+},
+{
+"type": "brick",
+"src": "http://media.npr.org/assets/img/2014/09/08/img_0178_brick-1dc896f816e9511ea9d26e1e29d1f8a63bec0fe7.jpg",
+"height": "2384",
+"width": "5184"
+}
+]
+}
+],
+"listText": [
+{
+"id": "346895729",
+"tag": "p",
+"paragraph": [
+{
+"num": "1",
+"$text": "<ul>"
+},
+{
+"num": "2",
+"$text": "<li>\"Gimme Something Good\"</li>"
+},
+{
+"num": "3",
+"$text": "<li>\"Stay With Me\"</li>"
+},
+{
+"num": "4",
+"$text": "<li>\"Shadows\"</li>"
+},
+{
+"num": "5",
+"$text": "<li>\"The Door\" (premiere)</li>"
+},
+{
+"num": "6",
+"$text": "<li>\"Peaceful Valley\"</li>"
+},
+{
+"num": "7",
+"$text": "</ul>"
+}
+]
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Ryan Adams just released his new self-titled album. It's his second solo record since he took time away from touring and recording to deal with Ménière's disease, an inner-ear problem that made performing loud music unbearable."
+},
+{
+"num": "2",
+"$text": "Adams produced the new album himself in his own PAX-AM studio in Los Angeles, and brought the band he worked with (including co-producer Mike Viola) to this extended World Cafe session. They wound up performing a bunch of songs — including the previously unheard \"The Door,\" which was to appear on Adams' unreleased \"black hole album.\" You can skip to that song by advancing to 39:50. [Copyright 2015 WXPN-FM]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "<a href=\"http://www.npr.org/artists/14953534/ryan-adams\" target=\"_blank\">Ryan Adams</a> just released his new self-titled album. It's his second solo record since he took time away from touring and recording to deal with Ménière's disease, an inner-ear problem that made performing loud music unbearable."
+},
+{
+"num": "2",
+"$text": "Adams produced the new album himself in his own PAX-AM studio in Los Angeles, and brought the band he worked with (including co-producer Mike Viola) to this extended <em>World Cafe</em> session. They wound up performing a bunch of songs — including the previously unheard \"The Door,\" which was to appear on Adams' unreleased \"black hole album.\" You can skip to that song by advancing to 39:50.  <div class=\"fullattribution\">Copyright 2015 WXPN-FM. To see more, visit <a href=\"http://www.xpn.org/\">http://www.xpn.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Ryan+Adams+On+World+Cafe&utme=8(APIKey)9(MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001)\"/></div>"
+}
+]
+},
+"fullText": {
+"$text": "<div class=\"storytitle\">      <h1>Ryan Adams On World Cafe</h1>   <h2 class=\"contentsubtitle\">Performs Unreleased Track 'The Door' For The First Time</h2>   <input type=\"hidden\" id=\"title257630463\" value=\"Ryan Adams On World Cafe\"></input>   <input type=\"hidden\" id=\"modelShortUrl257630463\" value=\"http://n.pr/1btCNIL\"></input>   <input type=\"hidden\" id=\"modelFullUrl257630463\" value=\"http://www.npr.org/sections/world-cafe/2014/09/09/257630463/ryan-adams-on-world-cafe\"></input></div><!-- END CLASS=\"STORYTITLE\" --><div id=\"story-meta\">      <div class=\"dateblock\">            <time datetime=\"2014-09-09\"><span class=\"date\">September 09, 2014</span><span class=\"time\"> 8:03 AM ET</span></time>   </div>   <div class=\"station\">            <p><span>from</span><a target=\"_blank\" class=\"station\" href=\"http://www.xpn.org/\"  data-metrics='{\"action\":\"Click Org Association\",\"category\":\"Story Metadata\"}' ><img src='http://media.npr.org/images/stations/logos/wxpn_fm.gif' alt='WXPN' /></a></p>   </div>   <!-- END CLASS=\"STATION\" --></div><!-- END ID=\"STORY-META\" --><div id=\"primaryaudio\" class=\"storylocation linkLocation\">      <div id=\"res345277195\" class=\"bucketwrap primary resaudio  clearfix large\">            <div class=\"player-core\">                  <div class=\"listenicon\">                        <a class=\"listen\" href=\"http://www.npr.org/templates/player/mediaPlayer.html?action=1&t=1&islist=false&id=257630463&m=345277195&d=null\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Play Audio\",\"label\":\"20140908_wc_ryanadams.mp3\"}' ></a>         </div>         <!-- END CLASS=\"LISTENICON\" -->         <div id=\"avcontent345277195\" class=\"avcontent listen\">                        <h3><a href=\"http://www.npr.org/templates/player/mediaPlayer.html?action=1&t=1&islist=false&id=257630463&m=345277195&d=null\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Play Audio\",\"label\":\"20140908_wc_ryanadams.mp3\"}' >Ryan Adams On World Cafe</a></h3>            <div class=\"inner\">                              <div class=\"duration\">                                    <b id=\"durationCurrent345277195\" class=\"current\"></b>                  <b class=\"total\">53:36</b>               </div>            </div>            <!-- END CLASS=\"INNER\" -->            <b id=\"mediaTimeTotal345277195\" class=\"media-time-total\"><b id=\"mediaTimeCurrent345277195\" class=\"media-time-current\"></b><b class=\"scrubber\"></b></b>         </div>         <!-- END ID=\"AVCONTENT345277195\" CLASS=\"AVCONTENT LISTEN\" -->      </div>      <!-- END CLASS=\"PLAYER-CORE\" -->      <ul class=\"audiotools has-embed\">                  <li class=\"playlist\"><a class=\"add\" href=\"http://www.npr.org/templates/player/mediaPlayer.html?action=2&t=1&islist=false&id=257630463&m=345277195&d=null\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Add Audio To Playlist\",\"label\":\"20140908_wc_ryanadams.mp3\"}' ><span>Playlist</span></a></li>         <li><a class=\"embed\" href=\"#\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Embed\",\"label\":\"20140908_wc_ryanadams.mp3\"}' ><span>Embed</span></a><div class=\"audio-embed-modal\">      <b class=\"embed-label\">Embed</b>   <button class=\"embed-close\">Close embed modal</button>   <b class=\"embed-url embed-url-touch\"><code><b class=\"punctuation\"><</b>iframe src=\"http://www.npr.org/player/embed/257630463/345277195\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\"></iframe></code></b>   <input class=\"embed-url embed-url-no-touch\" readonly value=\"<iframe src=\"http://www.npr.org/player/embed/257630463/345277195\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\"></iframe>\"></input></div></li>      </ul>   </div>   <!-- END ID=\"RES345277195\" CLASS=\"BUCKETWRAP PRIMARY RESAUDIO  CLEARFIX LARGE\" --></div><div id=\"storytext\" class=\"storytext storylocation linkLocation\">      <div id=\"res346895203\" class=\"bucketwrap image large\" previewTitle=\"Ryan Adams performs live in World Cafe's studio.\">            <div class=\"imagewrap\" data-crop-type=\"\">    <img src=\"http://media.npr.org/assets/img/2014/09/08/img_0178_wide-7436ad68fa567bd35852129b9641c4dad8817af8-s1000.jpg\" title=\"Ryan Adams performs live in World Cafe's studio.\" alt=\"Ryan Adams performs live in World Cafe's studio.\" /></div><div class=\"credit-caption\">    <div class=\"caption\">        <p><i>            Ryan Adams performs live in <em>World Cafe</em>'s studio.            </i>        </p>    </div>        <span class=\"credit\">                John Vettese/WXPN            </span></div>   </div>   <div class=\"container small\" id=\"con346896148\" previewTitle=\"Set List\">            <h3>Additional Information: </h3>      <h3 class=\"conheader\">Set List</h3>      <div id=\"res346895729\" class=\"bucketwrap listtext\">                  <div class=\"bucket\">                        <ul class=\"edTag\">            <li>\"Gimme Something Good\"</li>            <li>\"Stay With Me\"</li>            <li>\"Shadows\"</li>            <li>\"The Door\" (premiere)</li>            <li>\"Peaceful Valley\"</li>            </ul>         </div>         <!-- END CLASS=\"BUCKET\" -->      </div>      <!-- END ID=\"RES346895729\" CLASS=\"BUCKETWRAP LISTTEXT\" -->   </div>   <!-- END CLASS=\"CONTAINER SMALL\" ID=\"CON346896148\" PREVIEWTITLE=\"SET LIST\" -->   <p><a href=\"http://www.npr.org/artists/14953534/ryan-adams\" target=\"_blank\">Ryan Adams</a> just released his new self-titled album. It's his second solo record since he took time away from touring and recording to deal with Ménière's disease, an inner-ear problem that made performing loud music unbearable.</p>   <p>Adams produced the new album himself in his own PAX-AM studio in Los Angeles, and brought the band he worked with (including co-producer Mike Viola) to this extended <em>World Cafe</em> session. They wound up performing a bunch of songs — including the previously unheard \"The Door,\" which was to appear on Adams' unreleased \"black hole album.\" You can skip to that song by advancing to 39:50.</p></div><div class=\"fullattribution\">Copyright 2015 WXPN-FM. To see more, visit <a href=\"http://www.xpn.org/\">http://www.xpn.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Ryan+Adams+On+World+Cafe&utme=8(APIKey)9(MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001)\"/></div>"
+}
+},
+{
+"id": "345595482",
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/2014/09/07/345595482/ryan-adams-rips-it-up-starts-again?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=345595482&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+},
+{
+"type": "short",
+"$text": "http://n.pr/WczLs5"
+}
+],
+"title": {
+"$text": "Ryan Adams Rips It Up, Starts Again"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "The prolific songwriter's new self-titled album has the sound of an artist in thrall to making music on his own terms. NPR's Arun Rath visits him at his studio in Hollywood."
+},
+"miniTeaser": {
+"$text": "Adams' new album has the sound of an artist in thrall to making music on his own terms."
+},
+"slug": {
+"$text": "Music Interviews"
+},
+"thumbnail": {
+"medium": {
+"$text": "http://media.npr.org/assets/img/2014/09/03/ryan-adams-pinballa_sq-dc43c356a4bc917d8ed7c6a9574769ca8d5d542d.jpg?s=13"
+},
+"large": {
+"$text": "http://media.npr.org/assets/img/2014/09/03/ryan-adams-pinballa_sq-dc43c356a4bc917d8ed7c6a9574769ca8d5d542d.jpg?s=11"
+},
+"provider": {
+"$text": "Courtesy of the artist"
+}
+},
+"storyDate": {
+"$text": "Sun, 07 Sep 2014 17:24:00 -0400"
+},
+"pubDate": {
+"$text": "Mon, 08 Sep 2014 09:27:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Mon, 08 Sep 2014 09:27:11 -0400"
+},
+"audioRunByDate": {
+"$text": "Sat, 20 Sep 2014 01:00:00 -0400"
+},
+"show": [
+{
+"program": {
+"id": "2",
+"code": "ATC",
+"$text": "All Things Considered"
+},
+"showDate": {
+"$text": "Sun, 07 Sep 2014 16:00:00 -0400"
+},
+"segNum": {
+"$text": "10"
+}
+}
+],
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "1",
+"orgAbbr": "NPR",
+"name": {
+"$text": "NPR"
+},
+"website": {
+"$text": "http://www.npr.org/"
+}
+}
+],
+"transcript": {
+"link": {
+"type": "api",
+"$text": "http://api.npr.org/transcript?id=345595482&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+},
+"parent": [
+{
+"id": "346547291",
+"type": "programEpisode",
+"title": {
+"$text": "All Things Considered for September 7, 2014"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/programs/all-things-considered/2014/09/07/346547291?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=346547291&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "10001",
+"type": "genre",
+"title": {
+"$text": "Rock"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/genres/rock/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=10001&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1105",
+"type": "primaryTopic",
+"slug": "true",
+"title": {
+"$text": "Music Interviews"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/music-interviews/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1105&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1105",
+"type": "topic",
+"title": {
+"$text": "Music Interviews"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/music-interviews/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1105&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1039",
+"type": "topic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1002",
+"type": "topic",
+"title": {
+"$text": "Home Page Top Stories"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "2",
+"type": "program",
+"title": {
+"$text": "All Things Considered"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/programs/all-things-considered/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=2&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"audio": [
+{
+"id": "346627809",
+"type": "primary",
+"title": {},
+"duration": {
+"$text": "502"
+},
+"description": {},
+"format": {
+"mp3": [
+{
+"type": "m3u",
+"$text": "http://api.npr.org/m3u/1346627809-c38224.m3u?orgId=1&topicId=1105&d=502&p=2&story=345595482&t=progseg&e=346547291&seg=10&ft=nprml&f=14953534"
+}
+],
+"wm": {
+"$text": "http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=346627809&type=1&mtype=WM&orgId=1&topicId=1105&d=502&p=2&story=345595482&t=progseg&e=346547291&seg=10&ft=nprml&f=14953534"
+},
+"mp4": {
+"$text": "http://pd.npr.org/npr-mp4/npr/atc/2014/09/20140907_atc_ryan_adams_rips_it_up_starts_again.mp4?orgId=1&topicId=1105&d=502&p=2&story=345595482&t=progseg&e=346547291&seg=10&ft=nprml&f=14953534"
+},
+"mediastream": {
+"$text": "rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/atc/2014/09/20140907_atc_ryan_adams_rips_it_up_starts_again.mp3"
+}
+},
+"region": {
+"$text": "all"
+},
+"rightsHolder": {},
+"permissions": {
+"download": {
+"allow": "true"
+},
+"stream": {
+"allow": "true"
+},
+"embed": {
+"allow": "true"
+}
+},
+"stream": {
+"active": "false"
+}
+}
+],
+"byline": [
+{
+"id": "346428601",
+"name": {
+"$text": "NPR Staff"
+}
+}
+],
+"container": [
+{
+"id": "346428370",
+"title": {},
+"introText": {},
+"colSpan": {
+"$text": "1"
+},
+"displayOptions": {
+"typeId": "2",
+"$text": "Display Both"
+},
+"link": [
+{
+"refId": "346428299",
+"num": "1"
+},
+{
+"refId": "345596324",
+"num": "2"
+}
+]
+}
+],
+"image": [
+{
+"id": "345596023",
+"type": "primary",
+"width": "200",
+"src": "http://media.npr.org/assets/img/2014/09/03/ryan-adams-pinballa_wide-c2372d32741394317da6bf3a9dc3953dbdcf9aa7.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Ryan Adams' self-titled 14th album comes out Sept. 9."
+},
+"caption": {
+"$text": "Ryan Adams' self-titled 14th album comes out Sept. 9."
+},
+"link": {
+"url": ""
+},
+"producer": {
+"$text": "Alice Baxley"
+},
+"provider": {
+"url": "",
+"$text": "Courtesy of the artist"
+},
+"copyright": {},
+"enlargement": {
+"src": "http://media.npr.org/assets/img/2014/09/03/ryan-adams-pinballa_wide-c2372d32741394317da6bf3a9dc3953dbdcf9aa7.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "http://media.npr.org/assets/img/2014/09/03/ryan-adams-pinballa-388a5d1e31b86ebcadb503f76c15849fe4fa244a.jpg",
+"height": "1334",
+"width": "1780"
+},
+{
+"type": "square",
+"src": "http://media.npr.org/assets/img/2014/09/03/ryan-adams-pinballa_sq-dc43c356a4bc917d8ed7c6a9574769ca8d5d542d.jpg",
+"height": "633",
+"width": "633"
+},
+{
+"type": "wide",
+"src": "http://media.npr.org/assets/img/2014/09/03/ryan-adams-pinballa_wide-c2372d32741394317da6bf3a9dc3953dbdcf9aa7.jpg",
+"height": "1125",
+"width": "2000",
+"primary": "true"
+},
+{
+"type": "enlargement",
+"src": "http://media.npr.org/assets/img/2014/09/03/ryan-adams-pinballa_wide-c2372d32741394317da6bf3a9dc3953dbdcf9aa7.jpg",
+"height": "1125",
+"width": "2000"
+},
+{
+"type": "brick",
+"src": "http://media.npr.org/assets/img/2014/09/03/ryan-adams-pinballa_brick-063f72988b8efda9bf4d254d6fcf93ef0c999598.jpg",
+"height": "786",
+"width": "1708"
+}
+]
+}
+],
+"relatedLink": [
+{
+"id": "346428299",
+"type": "internal",
+"caption": {
+"$text": "Ryan Adams Live At Newport Folk 2014"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/event/music/332030079/ryan-adams-live-in-concert-newport-folk-festival-2014?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=332030079&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "345596324",
+"type": "internal",
+"caption": {
+"$text": "Stream 'Ryan Adams' In Full"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/2014/08/31/343973366/first-listen-ryan-adams-ryan-adams?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=343973366&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Any artist who releases 16 records in 15 years could be forgiven for becoming a bit jaded. But the process behind Ryan Adams' new self-titled album feels almost like a love story, in which one of the more prolific songwriters of the last two decades finds a new passion for his craft."
+},
+{
+"num": "2",
+"$text": "That story is set at PAX-AM, the small label and recording studio Adams runs in Hollywood, here just about every inch of space is covered with something highly touchable. There are organs, drums, old reel-to-reel tape machines; action figures peer out from shelves, a poster from the movie Krull hovers above a staircase, a Spider-Man pinball machine blinks and flashes for attention. Adams says there's a method to all this madness."
+},
+{
+"num": "3",
+"$text": "\"When people come to the studio, they can listen to records; we have manual typewriters and stationery and reference books for them to look at, and lots of old-fashioned '60s and '70s pulp magazines. All kinds of stuff to sort of inspire someone, should they be in the middle of a process and need that,\" he says."
+},
+{
+"num": "4",
+"$text": "PAX-AM is right next door to the studio where Adams made his last album, Ashes & Fire. That's where these new songs were meant to be recorded — and in fact, he completed a version of the album there first. Adams says he was ambivalent about those recordings and sat on them for months. In the intervening time, he found himself spending more and more hours at his own studio."
+},
+{
+"num": "5",
+"$text": "\"And I would record my own music in my own place, to the point where I started to amass more songs than I had even made next door,\" he says. \"And they took on a feeling that reminded me of the way that I played, and the kinds of music that I played, when I first started. It felt like starting again. And I knew that I needed to follow that thread.\""
+},
+{
+"num": "6",
+"$text": "NPR's Arun Rath visited Adams at PAX-AM to talk about why the space, and especially its analog gear, became such a source of encouragement. Hear their conversation at the audio link. [Copyright 2015 NPR]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Any artist who releases 16 records in 15 years could be forgiven for becoming a bit jaded. But the process behind <a href=\"http://www.npr.org/artists/14953534/ryan-adams\" target=\"_blank\">Ryan Adams</a>' new self-titled album feels almost like a love story, in which one of the more prolific songwriters of the last two decades finds a new passion for his craft."
+},
+{
+"num": "2",
+"$text": "That story is set at PAX-AM, the small label and recording studio Adams runs in Hollywood, here just about every inch of space is covered with something highly touchable. There are organs, drums, old reel-to-reel tape machines; action figures peer out from shelves, a poster from the movie Krull hovers above a staircase, a Spider-Man pinball machine blinks and flashes for attention.<em> </em>Adams says there's a method to all this madness."
+},
+{
+"num": "3",
+"$text": "\"When people come to the studio, they can listen to records; we have manual typewriters and stationery and reference books for them to look at, and lots of old-fashioned '60s and '70s pulp magazines. All kinds of stuff to sort of inspire someone, should they be in the middle of a process and need that,\" he says."
+},
+{
+"num": "4",
+"$text": "PAX-AM is right next door to the studio where Adams made his last album, <em>Ashes & Fire</em>. That's where these new songs were meant to be recorded — and in fact, he completed a version of the album there first. Adams says he was ambivalent about those recordings and sat on them for months. In the intervening time, he found himself spending more and more hours at his own studio."
+},
+{
+"num": "5",
+"$text": "\"And I would record my own music in my own place, to the point where I started to amass more songs than I had even made next door,\" he says. \"And they took on a feeling that reminded me of the way that I played, and the kinds of music that I played, when I first started. It felt like starting again. And I knew that I needed to follow that thread.\""
+},
+{
+"num": "6",
+"$text": "NPR's Arun Rath visited Adams at PAX-AM to talk about why the space, and especially its analog gear, became such a source of encouragement. Hear their conversation at the audio link.  <div class=\"fullattribution\">Copyright 2015 NPR. To see more, visit <a href=\"http://www.npr.org/\">http://www.npr.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Ryan+Adams+Rips+It+Up%2C+Starts+Again&utme=8(APIKey)9(MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001)\"/></div>"
+}
+]
+}
+},
+{
+"id": "343973366",
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/2014/08/31/343973366/first-listen-ryan-adams-ryan-adams?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=343973366&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+},
+{
+"type": "short",
+"$text": "http://n.pr/VQ1r6e"
+}
+],
+"title": {
+"$text": "First Listen: Ryan Adams, 'Ryan Adams'"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "After a three-year hiatus, the singer's 14th album is the sound of a once-prolific genius who's only recently relearned what it's like to walk on steady footing."
+},
+"miniTeaser": {
+"$text": "This is the sound of a genius who's recently relearned what it's like to walk on steady footing."
+},
+"slug": {
+"$text": "First Listen"
+},
+"thumbnail": {
+"medium": {
+"$text": "http://media.npr.org/assets/img/2014/08/28/ryan-adams_sq-f3bd47e0bea290b5ceb45a96d7377820f3b98b6d.jpg?s=13"
+},
+"large": {
+"$text": "http://media.npr.org/assets/img/2014/08/28/ryan-adams_sq-f3bd47e0bea290b5ceb45a96d7377820f3b98b6d.jpg?s=11"
+},
+"provider": {
+"$text": "Courtesy of the artist"
+}
+},
+"storyDate": {
+"$text": "Sun, 31 Aug 2014 23:03:00 -0400"
+},
+"pubDate": {
+"$text": "Thu, 11 Sep 2014 09:56:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Thu, 11 Sep 2014 09:56:55 -0400"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "1",
+"orgAbbr": "NPR",
+"name": {
+"$text": "NPR"
+},
+"website": {
+"$text": "http://www.npr.org/"
+}
+}
+],
+"parent": [
+{
+"id": "98679384",
+"type": "series",
+"slug": "true",
+"title": {
+"$text": "First Listen"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/98679384/first-listen?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=98679384&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "10001",
+"type": "genre",
+"title": {
+"$text": "Rock"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/genres/rock/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=10001&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1039",
+"type": "primaryTopic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1039",
+"type": "topic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "92792712",
+"type": "genre",
+"title": {
+"$text": "Country"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/genres/country/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=92792712&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"byline": [
+{
+"id": "343973395",
+"name": {
+"personId": "5244882",
+"$text": "Stephen Thompson"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/people/5244882/stephen-thompson?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=5244882&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"image": [
+{
+"id": "343980976",
+"type": "primary",
+"width": "200",
+"src": "http://media.npr.org/assets/img/2014/08/28/ryan-adams-233f80e6073971223659f419ffb643492555908c.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Ryan Adams' self-titled 14th album comes out Sept. 9."
+},
+"caption": {
+"$text": "Ryan Adams' self-titled 14th album comes out Sept. 9."
+},
+"link": {
+"url": ""
+},
+"producer": {
+"$text": "Julia Brokaw"
+},
+"provider": {
+"url": "",
+"$text": "Courtesy of the artist"
+},
+"copyright": {},
+"enlargement": {
+"src": "http://media.npr.org/assets/img/2014/08/28/ryan-adams-233f80e6073971223659f419ffb643492555908c.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "http://media.npr.org/assets/img/2014/08/28/ryan-adams-233f80e6073971223659f419ffb643492555908c.jpg",
+"height": "2331",
+"width": "3108",
+"primary": "true"
+},
+{
+"type": "square",
+"src": "http://media.npr.org/assets/img/2014/08/28/ryan-adams_sq-f3bd47e0bea290b5ceb45a96d7377820f3b98b6d.jpg",
+"height": "2331",
+"width": "2331"
+},
+{
+"type": "wide",
+"src": "http://media.npr.org/assets/img/2014/08/28/ryan-adams_wide-c08411523d230154e9726fcde09215606c917be3.jpg",
+"height": "1968",
+"width": "3500"
+},
+{
+"type": "enlargement",
+"src": "http://media.npr.org/assets/img/2014/08/28/ryan-adams-233f80e6073971223659f419ffb643492555908c.jpg",
+"height": "2331",
+"width": "3108"
+},
+{
+"type": "brick",
+"src": "http://media.npr.org/assets/img/2014/08/28/ryan-adams_brick-cf592e148f2ea594afc591cd08b3a9e867f1f851.jpg",
+"height": "1609",
+"width": "3500"
+}
+]
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Once known as a poster child for heedless prolificacy, Ryan Adams now seems to have discovered how to live at a human pace. His self-titled 14th album is his first in three years — a span that would have seemed inconceivable a decade ago. But the former Whiskeytown singer has settled down in several ways in recent years, for reasons both healthy (sobriety, marriage) and less so (a painful and career-threatening inner-ear disorder)."
+},
+{
+"num": "2",
+"$text": "It's only natural that, like 2011's Ashes & Fire, Ryan Adams sands down some of the singer-songwriter's rough spots, in ways that can affect peaks and valleys alike. But Adams still hits terrific highs here — most notably in \"My Wrecking Ball,\" which locates the singer's blood-and-guts barrenness, and \"I Just Might,\" during which he channels early Springsteen in a way that suits him."
+},
+{
+"num": "3",
+"$text": "Adams' output was erratic for so long — not to mention checkered with unlikely detours, including the occasional ragged punk record — that albums this sure-handed actually take a little getting used to. But Ryan Adams rewards the extra attention: It's the sound of a genius who's only recently relearned what it's like to walk on steady footing. [Copyright 2015 NPR]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Once known as a poster child for heedless prolificacy, <a href=\"http://www.npr.org/artists/14953534/ryan-adams\">Ryan Adams</a> now seems to have discovered how to live at a human pace. His self-titled 14th album is his first in three years — a span that would have seemed inconceivable a decade ago. But the former Whiskeytown singer has settled down in several ways in recent years, for reasons both healthy (sobriety, marriage) and less so (a painful and career-threatening <a href=\"http://www.mayoclinic.org/diseases-conditions/menieres-disease/basics/definition/con-20028251\">inner-ear disorder</a>)."
+},
+{
+"num": "2",
+"$text": "It's only natural that, like 2011's <em>Ashes & Fire</em>, <em>Ryan Adams</em> sands down some of the singer-songwriter's rough spots, in ways that can affect peaks and valleys alike. But Adams still hits terrific highs here — most notably in \"My Wrecking Ball,\" which locates the singer's blood-and-guts barrenness, and \"I Just Might,\" during which he channels early <a href=\"http://www.npr.org/artists/14837922/bruce-springsteen\">Springsteen</a> in a way that suits him."
+},
+{
+"num": "3",
+"$text": "Adams' output was erratic for so long — not to mention checkered with unlikely detours, including the occasional <a href=\"http://www.spin.com/articles/ryan-adams-punk-ep-1984-album-7-inch-stream/\">ragged punk record</a> — that albums this sure-handed actually take a little getting used to. But <em>Ryan Adams</em> rewards the extra attention: It's the sound of a genius who's only recently relearned what it's like to walk on steady footing.  <div class=\"fullattribution\">Copyright 2015 NPR. To see more, visit <a href=\"http://www.npr.org/\">http://www.npr.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=First+Listen%3A+Ryan+Adams%2C+%27Ryan+Adams%27&utme=8(APIKey)9(MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001)\"/></div>"
+}
+]
+}
+},
+{
+"id": "332030079",
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/event/music/332030079/ryan-adams-live-in-concert-newport-folk-festival-2014?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=332030079&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+},
+{
+"type": "short",
+"$text": "http://n.pr/1rrryeA"
+}
+],
+"title": {
+"$text": "Ryan Adams: Newport Folk 2014"
+},
+"subtitle": {},
+"shortTitle": {
+"$text": "Ryan Adams, Live In Concert"
+},
+"teaser": {
+"$text": "The prolific singer-songwriter showcases some of his new songs — and many others from his long and frequently glorious catalog — during a live concert from Newport, R.I."
+},
+"miniTeaser": {
+"$text": "Hear the prolific singer-songwriter's headline set from the first day of the Newport Folk Festival."
+},
+"slug": {
+"$text": "Newport Folk Festival"
+},
+"thumbnail": {
+"medium": {
+"$text": "http://media.npr.org/assets/img/2014/07/26/ryanadamsbanner_sq-bef4a220c30951ba30cdea75c8d07072261897c1.jpg?s=13"
+},
+"large": {
+"$text": "http://media.npr.org/assets/img/2014/07/26/ryanadamsbanner_sq-bef4a220c30951ba30cdea75c8d07072261897c1.jpg?s=11"
+},
+"provider": {
+"$text": "Adam Kissick for NPR"
+}
+},
+"storyDate": {
+"$text": "Fri, 25 Jul 2014 17:57:00 -0400"
+},
+"pubDate": {
+"$text": "Fri, 01 Aug 2014 10:21:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Fri, 01 Aug 2014 10:21:19 -0400"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "393",
+"orgAbbr": "WFUV",
+"name": {
+"$text": "WFUV-FM"
+},
+"website": {
+"$text": "http://www.wfuv.org"
+}
+}
+],
+"parent": [
+{
+"id": "1109",
+"type": "primaryTopic",
+"title": {
+"$text": "Concerts"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/concerts/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1109&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "145307348",
+"type": "collection",
+"title": {
+"$text": "NPR Music Live"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/event/music/145307348/npr-music-live?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=145307348&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "92834404",
+"type": "series",
+"slug": "true",
+"title": {
+"$text": "Newport Folk Festival"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/newport-folk-festival/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=92834404&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "314884013",
+"type": "collection",
+"title": {
+"$text": "All Music Live Events"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/314884013/all-music-live-events?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=314884013&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "142779528",
+"type": "collection",
+"title": {
+"$text": "Music Live Events"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/142779528/music-live-events?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=142779528&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "139999257",
+"type": "genre",
+"title": {
+"$text": "Folk"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/genres/folk/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=139999257&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1110",
+"type": "topic",
+"title": {
+"$text": "Music Videos"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/music-videos/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1110&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1109",
+"type": "topic",
+"title": {
+"$text": "Concerts"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/concerts/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1109&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1039",
+"type": "topic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1002",
+"type": "topic",
+"title": {
+"$text": "Home Page Top Stories"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "356126782",
+"type": "superSeries",
+"title": {
+"$text": "Festival Recordings"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/356126782/festival-recordings?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=356126782&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"byline": [
+{
+"id": "333736287",
+"name": {
+"personId": "5244882",
+"$text": "Stephen Thompson"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/people/5244882/stephen-thompson?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=5244882&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"image": [
+{
+"id": "335521786",
+"type": "primary",
+"width": "200",
+"src": "http://media.npr.org/assets/img/2014/07/26/ryanadamsbanner_slide-ff79e6a14d93576ebe707a611989beb0879f404f.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Ryan Adams performs at the 2014 Newport Folk Festival."
+},
+"caption": {
+"$text": "Ryan Adams performs at the 2014 Newport Folk Festival."
+},
+"link": {
+"url": ""
+},
+"producer": {},
+"provider": {
+"url": "",
+"$text": "Adam Kissick for NPR"
+},
+"copyright": {},
+"enlargement": {
+"src": "http://media.npr.org/assets/img/2014/07/26/ryanadamsbanner_slide-ff79e6a14d93576ebe707a611989beb0879f404f.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "http://media.npr.org/assets/img/2014/07/26/ryanadamsbanner-9d43fb0395ed12cf98547eb670058636972af333.jpg",
+"height": "1065",
+"width": "1421"
+},
+{
+"type": "square",
+"src": "http://media.npr.org/assets/img/2014/07/26/ryanadamsbanner_sq-bef4a220c30951ba30cdea75c8d07072261897c1.jpg",
+"height": "328",
+"width": "328"
+},
+{
+"type": "wide",
+"src": "http://media.npr.org/assets/img/2014/07/26/ryanadamsbanner_wide-394e8b767db997918fedf678cf839bb3b4dd6d58.jpg",
+"height": "898",
+"width": "1600"
+},
+{
+"type": "enlargement",
+"src": "http://media.npr.org/assets/img/2014/07/26/ryanadamsbanner_slide-ff79e6a14d93576ebe707a611989beb0879f404f.jpg",
+"height": "1065",
+"width": "1600"
+},
+{
+"type": "brick",
+"src": "http://media.npr.org/assets/img/2014/07/26/ryanadamsbanner_brick-5f2325f42062adafb50ec4997f6968a14448f354.jpg",
+"height": "678",
+"width": "1474"
+},
+{
+"type": "slide",
+"src": "http://media.npr.org/assets/img/2014/07/26/ryanadamsbanner_slide-ff79e6a14d93576ebe707a611989beb0879f404f.jpg",
+"height": "1065",
+"width": "1600",
+"primary": "true"
+}
+]
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Ryan Adams used to be the picture of ramshackle prolificacy — a man with Prince's desire to flood the market with product, not to mention an equally slippery grip on the quality-control lever. But Adams has calmed down dramatically in recent years, for reasons ranging from a stabler personal life to his battles with Ménière's disease, which attacks the inner ear and affects hearing and balance."
+},
+{
+"num": "2",
+"$text": "In September, the former Whiskeytown singer returns with his self-titled 14th studio album, which comes out nearly three years after his lightly brooding Ashes & Fire. Adams showcased some of his new songs — and many others from his long and frequently glorious catalog — in a performance webcast live from the 2014 Newport Folk Festival on Friday, July 25 in Newport, R.I."
+},
+{
+"num": "3",
+"$text": "Video Set List"
+},
+{
+"num": "4"
+},
+{
+"num": "5",
+"$text": "\"Gimme Something Good\""
+},
+{
+"num": "6"
+},
+{
+"num": "7",
+"$text": "Audio Set List"
+},
+{
+"num": "8"
+},
+{
+"num": "9",
+"$text": "\"Gimme Something Good\""
+},
+{
+"num": "10",
+"$text": "\"Magick\""
+},
+{
+"num": "11",
+"$text": "\"Stay With Me\""
+},
+{
+"num": "12",
+"$text": "\"Fix It\""
+},
+{
+"num": "13",
+"$text": "\"Dirty Rain\""
+},
+{
+"num": "14",
+"$text": "\"Let It Ride\""
+},
+{
+"num": "15",
+"$text": "\"Shadows\""
+},
+{
+"num": "16",
+"$text": "\"Oh My Sweet Carolina\""
+},
+{
+"num": "17",
+"$text": "\"Everybody Knows\""
+},
+{
+"num": "18",
+"$text": "\"Catherine\""
+},
+{
+"num": "19",
+"$text": "\"My Wrecking Ball\""
+},
+{
+"num": "20",
+"$text": "\"Peaceful Valley\""
+},
+{
+"num": "21",
+"$text": "\"Beautiful Sorta\""
+},
+{
+"num": "22",
+"$text": "\"Do I Wait\""
+},
+{
+"num": "23",
+"$text": "\"Mother\""
+},
+{
+"num": "24",
+"$text": "\"Come Pick Me Up\""
+},
+{
+"num": "25",
+"$text": " [Copyright 2015 WFUV-FM]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "<a href=\"http://www.npr.org/artists/14953534/ryan-adams\">Ryan Adams</a> used to be the picture of ramshackle prolificacy — a man with <a href=\"http://www.npr.org/artists/15394157/prince\">Prince</a>'s desire to flood the market with product, not to mention an equally slippery grip on the quality-control lever. But Adams has calmed down dramatically in recent years, for reasons ranging from a stabler personal life to his battles with Ménière's disease, which attacks the inner ear and affects hearing and balance."
+},
+{
+"num": "2",
+"$text": "In September, the former Whiskeytown singer returns with his self-titled 14th studio album, which comes out nearly three years after his lightly brooding <em>Ashes & Fire</em>. Adams showcased some of his new songs — and many others from his long and frequently glorious catalog — in a performance webcast live from the 2014 Newport Folk Festival on Friday, July 25 in Newport, R.I."
+},
+{
+"num": "3",
+"$text": "<h5>Video Set List</h5>"
+},
+{
+"num": "4",
+"$text": "<ul>"
+},
+{
+"num": "5",
+"$text": "<li>\"Gimme Something Good\"</li>"
+},
+{
+"num": "6",
+"$text": "</ul>"
+},
+{
+"num": "7",
+"$text": "<h5>Audio Set List</h5>"
+},
+{
+"num": "8",
+"$text": "<ul>"
+},
+{
+"num": "9",
+"$text": "<li>\"Gimme Something Good\"</li>"
+},
+{
+"num": "10",
+"$text": "<li>\"Magick\"</li>"
+},
+{
+"num": "11",
+"$text": "<li>\"Stay With Me\"</li>"
+},
+{
+"num": "12",
+"$text": "<li>\"Fix It\"</li>"
+},
+{
+"num": "13",
+"$text": "<li>\"Dirty Rain\"</li>"
+},
+{
+"num": "14",
+"$text": "<li>\"Let It Ride\"</li>"
+},
+{
+"num": "15",
+"$text": "<li>\"Shadows\"</li>"
+},
+{
+"num": "16",
+"$text": "<li>\"Oh My Sweet Carolina\"</li>"
+},
+{
+"num": "17",
+"$text": "<li>\"Everybody Knows\"</li>"
+},
+{
+"num": "18",
+"$text": "<li>\"Catherine\"</li>"
+},
+{
+"num": "19",
+"$text": "<li>\"My Wrecking Ball\"</li>"
+},
+{
+"num": "20",
+"$text": "<li>\"Peaceful Valley\"</li>"
+},
+{
+"num": "21",
+"$text": "<li>\"Beautiful Sorta\"</li>"
+},
+{
+"num": "22",
+"$text": "<li>\"Do I Wait\"</li>"
+},
+{
+"num": "23",
+"$text": "<li>\"Mother\"</li>"
+},
+{
+"num": "24",
+"$text": "<li>\"Come Pick Me Up\"</li>"
+},
+{
+"num": "25",
+"$text": "</ul>  <div class=\"fullattribution\">Copyright 2015 WFUV-FM. To see more, visit <a href=\"http://www.wfuv.org\">http://www.wfuv.org</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Ryan+Adams%3A+Newport+Folk+2014&utme=8(APIKey)9(MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001)\"/></div>"
+}
+]
+}
+},
+{
+"id": "146158373",
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/event/music/146158373/kcrw-presents-ryan-adams?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=146158373&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+},
+{
+"type": "short",
+"$text": "http://n.pr/wiaVPE"
+}
+],
+"title": {
+"$text": "KCRW Presents: Ryan Adams"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "The prolific singer-songwriter and storyteller gives an energetic, spontaneous studio performance."
+},
+"miniTeaser": {
+"$text": "The prolific singer-songwriter and storyteller gives an energetic, spontaneous studio performance."
+},
+"slug": {
+"$text": "Favorite Sessions"
+},
+"thumbnail": {
+"medium": {
+"$text": "http://media.npr.org/assets/img/2012/01/31/ryan-adams-sings-loud-by-jeremiah-garcia_24_sq-83566506393e4cbcbd80eade224498fc45a80992.jpg?s=13"
+},
+"large": {
+"$text": "http://media.npr.org/assets/img/2012/01/31/ryan-adams-sings-loud-by-jeremiah-garcia_24_sq-83566506393e4cbcbd80eade224498fc45a80992.jpg?s=11"
+},
+"provider": {
+"$text": "KCRW"
+}
+},
+"storyDate": {
+"$text": "Wed, 01 Feb 2012 17:08:00 -0500"
+},
+"pubDate": {
+"$text": "Thu, 09 Feb 2012 16:00:00 -0500"
+},
+"lastModifiedDate": {
+"$text": "Fri, 02 Mar 2012 14:58:27 -0500"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "55",
+"orgAbbr": "KCRW",
+"name": {
+"$text": "KCRW-FM"
+},
+"website": {
+"$text": "http://www.kcrw.com"
+}
+}
+],
+"parent": [
+{
+"id": "314884013",
+"type": "collection",
+"title": {
+"$text": "All Music Live Events"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/314884013/all-music-live-events?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=314884013&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "10001",
+"type": "genre",
+"title": {
+"$text": "Rock"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/genres/rock/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=10001&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1110",
+"type": "topic",
+"title": {
+"$text": "Music Videos"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/music-videos/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1110&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1103",
+"type": "primaryTopic",
+"title": {
+"$text": "Studio Sessions"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/studio-sessions/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1103&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1103",
+"type": "topic",
+"title": {
+"$text": "Studio Sessions"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/studio-sessions/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1103&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1039",
+"type": "topic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "15667984",
+"type": "series",
+"slug": "true",
+"title": {
+"$text": "Favorite Sessions"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/15667984/favorite-sessions?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=15667984&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"byline": [
+{
+"id": "146602436",
+"name": {
+"$text": "Jason Bentley"
+}
+}
+],
+"image": [
+{
+"id": "146158462",
+"type": "primary",
+"width": "200",
+"src": "http://media.npr.org/assets/img/2012/01/31/ryan-adams-sings-loud-by-jeremiah-garcia_24_wide-b4621c060b5b6a35d787666cf62d79ffd25ec737.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Ryan Adams' most recent album, Ashes and Fire, is out now."
+},
+"caption": {
+"$text": "Ryan Adams' most recent album, <em>Ashes and Fire</em>, is out now."
+},
+"link": {
+"url": ""
+},
+"producer": {
+"$text": "Jeremiah Garcia "
+},
+"provider": {
+"url": "",
+"$text": "KCRW"
+},
+"copyright": {},
+"enlargement": {
+"src": "http://media.npr.org/assets/img/2012/01/31/ryan-adams-sings-loud-by-jeremiah-garcia_24_wide-b4621c060b5b6a35d787666cf62d79ffd25ec737.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "http://media.npr.org/assets/img/2012/01/31/ryan-adams-sings-loud-by-jeremiah-garcia_24-34b983ff3023d128af0592d024de44e21f8fd1b1.jpg",
+"height": "599",
+"width": "799"
+},
+{
+"type": "square",
+"src": "http://media.npr.org/assets/img/2012/01/31/ryan-adams-sings-loud-by-jeremiah-garcia_24_sq-83566506393e4cbcbd80eade224498fc45a80992.jpg",
+"height": "449",
+"width": "449"
+},
+{
+"type": "wide",
+"src": "http://media.npr.org/assets/img/2012/01/31/ryan-adams-sings-loud-by-jeremiah-garcia_24_wide-b4621c060b5b6a35d787666cf62d79ffd25ec737.jpg",
+"height": "505",
+"width": "900",
+"primary": "true"
+},
+{
+"type": "enlargement",
+"src": "http://media.npr.org/assets/img/2012/01/31/ryan-adams-sings-loud-by-jeremiah-garcia_24_wide-b4621c060b5b6a35d787666cf62d79ffd25ec737.jpg",
+"height": "505",
+"width": "900"
+},
+{
+"type": "brick",
+"src": "http://media.npr.org/assets/img/2012/01/31/ryan-adams-sings-loud-by-jeremiah-garcia_24_brick-2c69209b74dfe9e364a9326f96a92105836a66a0.jpg",
+"height": "413",
+"width": "900"
+},
+{
+"type": "slide",
+"src": "http://media.npr.org/assets/img/2012/01/31/ryan-adams-sings-loud-by-jeremiah-garcia_24_slide-0501942dc4efa342403a8bbb4466416d9ae83a0c.jpg",
+"height": "599",
+"width": "900"
+}
+]
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "This solo acoustic performance by Ryan Adams was one of my favorite musical experiences of 2011. He performed in front of a small audience with  a book of songs at his feet, flipping through it and deciding in the moment what  to play. He fed off the energy of the crowd and went well over his set  time to share tracks from throughout his career with Whiskeytown and Ryan Adams & The Cardinals, as well as his work as a solo artist."
+},
+{
+"num": "2",
+"$text": "Adams is a tremendous storyteller — both in song and conversation  — and he took this time to explain his obsession with black metal, the \"beautiful failure\" of  his middle career, and how producer Glyn Johns took the reins and roped him in for Adams'  excellent new album Ashes and Fire."
+},
+{
+"num": "3",
+"$text": "Learn more about this session from KCRW here."
+},
+{
+"num": "4",
+"$text": " Setlist"
+},
+{
+"num": "5"
+},
+{
+"num": "6",
+"$text": "'Oh My  Sweet Carolina'"
+},
+{
+"num": "7",
+"$text": "'Ashes & Fire'"
+},
+{
+"num": "8",
+"$text": "'Dirty  Rain'"
+},
+{
+"num": "9",
+"$text": "'My Winding Wheel'"
+},
+{
+"num": "10",
+"$text": "'Invisible Riverside'"
+},
+{
+"num": "11",
+"$text": "'Let It  Ride'"
+},
+{
+"num": "12",
+"$text": "'Please Do Not Let Me Go'"
+},
+{
+"num": "13",
+"$text": "'Lucky Now'"
+},
+{
+"num": "14",
+"$text": "'Chains Of Love'"
+},
+{
+"num": "15",
+"$text": "'Do I Wait'"
+},
+{
+"num": "16",
+"$text": "'Somebody Remembers The Rose'"
+},
+{
+"num": "17",
+"$text": "'Houses On The  Hill'"
+},
+{
+"num": "18",
+"$text": "'Jacksonville Skyline'"
+},
+{
+"num": "19",
+"$text": "'When Will You Come Back  Home?'"
+},
+{
+"num": "20",
+"$text": "'Like Yesterday'"
+},
+{
+"num": "21"
+},
+{
+"num": "22",
+"$text": "Credits"
+},
+{
+"num": "23",
+"$text": "Video produced by Subtractive; Camera Ops: Kyle Schember, Ryan Stuit, Robert LaFond, Michael  Nadeau. [Copyright 2015 KCRW-FM]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "This solo acoustic performance by <a href=\"http://www.npr.org/artists/14953534/ryan-adams\" target=\"_self\">Ryan Adams</a> was one of my favorite musical experiences of 2011. He performed in front of a small audience with  a book of songs at his feet, flipping through it and deciding in the moment what  to play. He fed off the energy of the crowd and went well over his set  time to share tracks from throughout his career with Whiskeytown and Ryan Adams & The Cardinals, as well as his work as a solo artist."
+},
+{
+"num": "2",
+"$text": "Adams is a tremendous storyteller — both in song and conversation  — and he took this time to explain his obsession with black metal, the \"beautiful failure\" of  his middle career, and how producer Glyn Johns took the reins and roped him in for Adams'  excellent new album <em>Ashes and Fire</em>."
+},
+{
+"num": "3",
+"$text": "<a href=\"http://blogs.kcrw.com/musicnews/2011/11/photos-ryan-adams-live-on-kcrw/\" target=\"_blank\">Learn more about this session from KCRW here.</a>"
+},
+{
+"num": "4",
+"$text": "<h5><strong><strong> Setlist</strong></strong></h5>"
+},
+{
+"num": "5",
+"$text": "<ul>"
+},
+{
+"num": "6",
+"$text": "<li>'Oh My  Sweet Carolina'</li>"
+},
+{
+"num": "7",
+"$text": "<li>'Ashes & Fire'</li>"
+},
+{
+"num": "8",
+"$text": "<li>'Dirty  Rain'</li>"
+},
+{
+"num": "9",
+"$text": "<li>'My Winding Wheel'</li>"
+},
+{
+"num": "10",
+"$text": "<li>'Invisible Riverside'</li>"
+},
+{
+"num": "11",
+"$text": "<li>'Let It  Ride'</li>"
+},
+{
+"num": "12",
+"$text": "<li>'Please Do Not Let Me Go'</li>"
+},
+{
+"num": "13",
+"$text": "<li>'Lucky Now'</li>"
+},
+{
+"num": "14",
+"$text": "<li>'Chains Of Love'</li>"
+},
+{
+"num": "15",
+"$text": "<li>'Do I Wait'</li>"
+},
+{
+"num": "16",
+"$text": "<li>'Somebody Remembers The Rose'</li>"
+},
+{
+"num": "17",
+"$text": "<li>'Houses On The  Hill'</li>"
+},
+{
+"num": "18",
+"$text": "<li>'Jacksonville Skyline'</li>"
+},
+{
+"num": "19",
+"$text": "<li>'When Will You Come Back  Home?'</li>"
+},
+{
+"num": "20",
+"$text": "<li>'Like Yesterday'</li>"
+},
+{
+"num": "21",
+"$text": "</ul>"
+},
+{
+"num": "22",
+"$text": "<h5>Credits</h5>"
+},
+{
+"num": "23",
+"$text": "<em>Video produced by Subtractive; Camera Ops: Kyle Schember, Ryan Stuit, Robert LaFond, Michael  Nadeau.</em>  <div class=\"fullattribution\">Copyright 2015 KCRW-FM. To see more, visit <a href=\"http://www.kcrw.com\">http://www.kcrw.com</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=KCRW+Presents%3A+Ryan+Adams&utme=8(APIKey)9(MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001)\"/></div>"
+}
+]
+}
+},
+{
+"id": "144485085",
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/2012/01/01/144485085/ryan-adams-up-from-the-ashes?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=144485085&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+},
+{
+"type": "short",
+"$text": "http://n.pr/ttO3k6"
+}
+],
+"title": {
+"$text": "Ryan Adams: Up From The 'Ashes'"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "The prolific country-rocker recently took a break from an otherwise sleepless career. He discusses returning to the studio for the new album <em>Ashes & Fire</em>, and performs three songs live — including an unlikely metal cover."
+},
+"miniTeaser": {
+"$text": "The prolific country-rocker discusses the new album <em>Ashes & Fire</em> and performs three songs live."
+},
+"slug": {
+"$text": "Music Articles"
+},
+"thumbnail": {
+"medium": {
+"$text": "http://media.npr.org/assets/img/2011/12/30/ryanadams2_sq-310535c5bc2b2def2754d2346008775f23bd2f3d.jpg?s=13"
+},
+"large": {
+"$text": "http://media.npr.org/assets/img/2011/12/30/ryanadams2_sq-310535c5bc2b2def2754d2346008775f23bd2f3d.jpg?s=11"
+},
+"provider": {
+"$text": "Courtesy of the artist"
+}
+},
+"storyDate": {
+"$text": "Sun, 01 Jan 2012 05:38:00 -0500"
+},
+"pubDate": {
+"$text": "Sun, 01 Jan 2012 11:20:00 -0500"
+},
+"lastModifiedDate": {
+"$text": "Sun, 01 Jan 2012 11:20:31 -0500"
+},
+"audioRunByDate": {},
+"show": [
+{
+"program": {
+"id": "10",
+"code": "WESUN",
+"$text": "Weekend Edition Sunday"
+},
+"showDate": {
+"$text": "Sun, 01 Jan 2012 08:00:00 -0500"
+},
+"segNum": {
+"$text": "20"
+}
+}
+],
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "1",
+"orgAbbr": "NPR",
+"name": {
+"$text": "NPR"
+},
+"website": {
+"$text": "http://www.npr.org/"
+}
+}
+],
+"transcript": {
+"link": {
+"type": "api",
+"$text": "http://api.npr.org/transcript?id=144485085&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+},
+"parent": [
+{
+"id": "1105",
+"type": "primaryTopic",
+"title": {
+"$text": "Music Interviews"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/music-interviews/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1105&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "144442778",
+"type": "programEpisode",
+"title": {
+"$text": "Weekend Edition Sunday for January 1, 2012"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/programs/weekend-edition-sunday/2012/01/01/144442778/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=144442778&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "124289519",
+"type": "collection",
+"title": {
+"$text": "NPR Music Mobile"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/124289519/npr-music-mobile?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=124289519&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "100920965",
+"type": "series",
+"slug": "true",
+"title": {
+"$text": "Music Articles"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/100920965/music-articles/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=100920965&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "100920965",
+"type": "series",
+"title": {
+"$text": "Music Articles"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/100920965/music-articles/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=100920965&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "100920965",
+"type": "series",
+"title": {
+"$text": "Music Articles"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/100920965/music-articles/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=100920965&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "10001",
+"type": "genre",
+"title": {
+"$text": "Rock"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/genres/rock/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=10001&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1105",
+"type": "topic",
+"title": {
+"$text": "Music Interviews"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/music-interviews/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1105&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1039",
+"type": "topic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1002",
+"type": "topic",
+"title": {
+"$text": "Home Page Top Stories"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "10",
+"type": "program",
+"title": {
+"$text": "Weekend Edition Sunday"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/programs/weekend-edition-sunday/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=10&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"audio": [
+{
+"id": "144546335",
+"type": "primary",
+"title": {},
+"duration": {
+"$text": "621"
+},
+"description": {},
+"format": {
+"mp3": [
+{
+"type": "m3u",
+"$text": "http://api.npr.org/m3u/1144546335-c48d9d.m3u?orgId=1&topicId=1105&aggIds=100920965,100920965,100920965&d=621&p=10&story=144485085&t=progseg&e=144442778&seg=20&ft=nprml&f=14953534"
+}
+],
+"wm": {
+"$text": "http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=144546335&type=1&mtype=WM&orgId=1&topicId=1105&aggIds=100920965,100920965,100920965&d=621&p=10&story=144485085&t=progseg&e=144442778&seg=20&ft=nprml&f=14953534"
+},
+"mp4": {
+"$text": "http://pd.npr.org/npr-mp4/npr/wesun/2012/01/20120101_wesun_20.mp4?orgId=1&topicId=1105&aggIds=100920965,100920965,100920965&d=621&p=10&story=144485085&t=progseg&e=144442778&seg=20&ft=nprml&f=14953534"
+},
+"mediastream": {
+"$text": "rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/wesun/2012/01/20120101_wesun_20.mp3"
+}
+},
+"region": {
+"$text": "all"
+},
+"rightsHolder": {},
+"permissions": {
+"download": {
+"allow": "true"
+},
+"stream": {
+"allow": "true"
+},
+"embed": {
+"allow": "true"
+}
+},
+"stream": {
+"active": "false"
+}
+}
+],
+"byline": [
+{
+"id": "144487756",
+"name": {
+"personId": "125167196",
+"$text": "NPR Staff"
+},
+"link": [
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=125167196&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"container": [
+{
+"id": "144487747",
+"title": {
+"$text": "Live Performance"
+},
+"introText": {
+"$text": "Ryan Adams performs two songs from 'Ashes & Fire,' plus an unlikely metal cover."
+},
+"colSpan": {
+"$text": "1"
+},
+"displayOptions": {
+"typeId": "2",
+"$text": "Display Both"
+}
+}
+],
+"image": [
+{
+"id": "144487669",
+"type": "primary",
+"width": "200",
+"src": "http://media.npr.org/assets/img/2011/12/30/ryanadams2-c59ec8b0dfd82a89f140f8c3ddecd8a062ee3a2f.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Ryan Adams' new album, the latest in a prolific career, is called Ashes & Fire."
+},
+"caption": {
+"$text": "Ryan Adams' new album, the latest in a prolific career, is called <em>Ashes & Fire</em>."
+},
+"link": {
+"url": ""
+},
+"producer": {
+"$text": "David Black"
+},
+"provider": {
+"url": "",
+"$text": "Courtesy of the artist"
+},
+"copyright": {},
+"crop": [
+{
+"type": "standard",
+"src": "http://media.npr.org/assets/img/2011/12/30/ryanadams2-c59ec8b0dfd82a89f140f8c3ddecd8a062ee3a2f.jpg",
+"height": "550",
+"width": "732",
+"primary": "true"
+},
+{
+"type": "square",
+"src": "http://media.npr.org/assets/img/2011/12/30/ryanadams2_sq-310535c5bc2b2def2754d2346008775f23bd2f3d.jpg",
+"height": "448",
+"width": "448"
+},
+{
+"type": "wide",
+"src": "http://media.npr.org/assets/img/2011/12/30/ryanadams2_wide-402570d6f21b593ba626a87dc80ea5802ac6a8a7.jpg",
+"height": "412",
+"width": "732"
+},
+{
+"type": "brick",
+"src": "http://media.npr.org/assets/img/2011/12/30/ryanadams2_brick-7e5d1bf1cc15a630f698ac8f8734da9c729c3dcb.jpg",
+"height": "336",
+"width": "732"
+}
+]
+}
+],
+"song": [
+{
+"id": "144486005",
+"title": {
+"$text": "Chains of Love"
+},
+"subtitle": {},
+"artist": {},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "2"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "144486003"
+},
+"albumTitle": {
+"$text": "Live on Weekend Edition Sunday"
+},
+"albumArtist": {
+"$text": "Ryan Adams"
+},
+"albumYear": {
+"$text": "2012"
+},
+"upc": {},
+"label": {},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "not specified"
+},
+"coverUrl": {}
+}
+},
+{
+"id": "144486004",
+"title": {
+"$text": "Lucky Now"
+},
+"subtitle": {},
+"artist": {},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "1"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "144486003"
+},
+"albumTitle": {
+"$text": "Live on Weekend Edition Sunday"
+},
+"albumArtist": {
+"$text": "Ryan Adams"
+},
+"albumYear": {
+"$text": "2012"
+},
+"upc": {},
+"label": {},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "not specified"
+},
+"coverUrl": {}
+}
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Ryan Adams first started making a name for himself in the 1990s with the alternative country group Whiskeytown. Then, in 2000, he released his debut solo album, Heartbreaker — and his career exploded."
+},
+{
+"num": "2",
+"$text": "Critics loved his honest lyrics and aching voice, and Adams soon became one of alt-country's biggest stars. Over the years, his success continued: He was nominated for several Grammys and became a music-making machine, releasing more than 20 albums."
+},
+{
+"num": "3",
+"$text": "In 2009, Adams took a break from music. That hiatus is over, and he's back with a new album, Ashes & Fire."
+},
+{
+"num": "4",
+"$text": "\"I wanted it to musically and sonically feel like the feeling you get when you're overheated in a car,\" Adams says of the album. \"You're driving someplace in the summer, and the windows are down — but it's still very warm.\""
+},
+{
+"num": "5",
+"$text": "Adams is perhaps as well-known for his prolific songwriting habits as for his songs themselves. He says he has a few routines for getting into the creative mood — banging out lyrics on a typewriter, or pulling lines from the stacks of books in his office in Los Angeles — but no longer sticks to any hard-and-fast methods."
+},
+{
+"num": "6",
+"$text": "\"There definitely isn't a structure anymore to how I get ideas,\" he says. \"A lot of times I'll just write down a phrase, or I'll have an idea that's attached to just a few chords. Other times, it's work.\" [Copyright 2015 NPR]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "<a href=\"http://www.npr.org/templates/story/story.php?storyId=14953534\" target=\"_blank\">Ryan Adams</a> first started making a name for himself in the 1990s with the alternative country group Whiskeytown. Then, in 2000, he released his debut solo album, <em>Heartbreaker</em> — and his career exploded."
+},
+{
+"num": "2",
+"$text": "Critics loved his honest lyrics and aching voice, and Adams soon became one of alt-country's biggest stars. Over the years, his success continued: He was nominated for several Grammys and became a music-making machine, releasing more than 20 albums."
+},
+{
+"num": "3",
+"$text": "In 2009, Adams took a break from music. That hiatus is over, and he's back with a new album, <em>Ashes & Fire</em>."
+},
+{
+"num": "4",
+"$text": "\"I wanted it to musically and sonically feel like the feeling you get when you're overheated in a car,\" Adams says of the album. \"You're driving someplace in the summer, and the windows are down — but it's still very warm.\""
+},
+{
+"num": "5",
+"$text": "Adams is perhaps as well-known for his prolific songwriting habits as for his songs themselves. He says he has a few routines for getting into the creative mood — banging out lyrics on a typewriter, or pulling lines from the stacks of books in his office in Los Angeles — but no longer sticks to any hard-and-fast methods."
+},
+{
+"num": "6",
+"$text": "\"There definitely isn't a structure anymore to how I get ideas,\" he says. \"A lot of times I'll just write down a phrase, or I'll have an idea that's attached to just a few chords. Other times, it's work.\"  <div class=\"fullattribution\">Copyright 2015 NPR. To see more, visit <a href=\"http://www.npr.org/\">http://www.npr.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Ryan+Adams%3A+Up+From+The+%27Ashes%27&utme=8(APIKey)9(MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001)\"/></div>"
+}
+]
+}
+},
+{
+"id": "140934525",
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/2011/11/14/140934525/ryan-adams-on-world-cafe?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=140934525&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+},
+{
+"type": "short",
+"$text": "http://n.pr/omJVnR"
+}
+],
+"title": {
+"$text": "Ryan Adams On World Cafe"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "<em>World Cafe</em> revisits a performance with the singer-songwriter shortly after he'd released <em>Ashes & Fire</em>, a product of two years of hiatus and reflection."
+},
+"miniTeaser": {
+"$text": "<em><em>World Cafe</em></em> revisits a session with the singer-songwriter shortly after he'd released<em> <em>Ashes & Fire</em>.</em>"
+},
+"slug": {
+"$text": "World Cafe"
+},
+"storyDate": {
+"$text": "Mon, 14 Nov 2011 09:32:00 -0500"
+},
+"pubDate": {
+"$text": "Mon, 31 Mar 2014 16:53:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Tue, 01 Apr 2014 10:18:11 -0400"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "715",
+"orgAbbr": "WXPN",
+"name": {
+"$text": "WXPN-FM"
+},
+"website": {
+"$text": "http://www.xpn.org/"
+}
+}
+],
+"parent": [
+{
+"id": "1103",
+"type": "primaryTopic",
+"title": {
+"$text": "Studio Sessions"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/studio-sessions/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1103&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "216864430",
+"type": "category",
+"title": {
+"$text": "Studio Sessions"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/world-cafe/216864430/studio-sessions?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=216864430&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "216835831",
+"type": "blog",
+"slug": "true",
+"title": {
+"$text": "World Cafe"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/world-cafe/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=216835831&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "124289519",
+"type": "collection",
+"title": {
+"$text": "NPR Music Mobile"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/124289519/npr-music-mobile?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=124289519&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "10001",
+"type": "genre",
+"title": {
+"$text": "Rock"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/genres/rock/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=10001&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1103",
+"type": "topic",
+"title": {
+"$text": "Studio Sessions"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/studio-sessions/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1103&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1039",
+"type": "topic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"container": [
+{
+"id": "140934592",
+"title": {
+"$text": "Related NPR Stories"
+},
+"introText": {},
+"colSpan": {},
+"displayOptions": {
+"typeId": "0",
+"$text": "Hide Both"
+},
+"link": [
+{
+"refId": "140934593",
+"num": "1"
+}
+]
+},
+{
+"id": "140934599",
+"title": {
+"$text": "Web Resources"
+},
+"introText": {},
+"colSpan": {},
+"displayOptions": {
+"typeId": "0",
+"$text": "Hide Both"
+},
+"link": [
+{
+"refId": "140934603",
+"num": "1"
+},
+{
+"refId": "140934600",
+"num": "2"
+}
+]
+}
+],
+"image": [
+{
+"id": "297167346",
+"type": "standard",
+"width": "200",
+"src": "http://media.npr.org/assets/img/2014/03/31/ryan-adams1_wide-a0f2cb6071f28170b3a596d5d58f61566bc4b91b.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Ryan Adams."
+},
+"caption": {
+"$text": "Ryan Adams."
+},
+"link": {
+"url": ""
+},
+"producer": {},
+"provider": {
+"url": "",
+"$text": "Courtesy of the artist"
+},
+"copyright": {},
+"enlargement": {
+"src": "http://media.npr.org/assets/img/2014/03/31/ryan-adams1_wide-a0f2cb6071f28170b3a596d5d58f61566bc4b91b.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "http://media.npr.org/assets/img/2014/03/31/ryan-adams1-ac4531552b7a09753c38d3a4ea5b211e79cdd5c7.jpg",
+"height": "1193",
+"width": "1589"
+},
+{
+"type": "square",
+"src": "http://media.npr.org/assets/img/2014/03/31/ryan-adams1_sq-aad2e99f1d446508e064a5a85d23ffd496764aa1.jpg",
+"height": "998",
+"width": "998"
+},
+{
+"type": "wide",
+"src": "http://media.npr.org/assets/img/2014/03/31/ryan-adams1_wide-a0f2cb6071f28170b3a596d5d58f61566bc4b91b.jpg",
+"height": "1040",
+"width": "1850",
+"primary": "true"
+},
+{
+"type": "enlargement",
+"src": "http://media.npr.org/assets/img/2014/03/31/ryan-adams1_wide-a0f2cb6071f28170b3a596d5d58f61566bc4b91b.jpg",
+"height": "1040",
+"width": "1850"
+},
+{
+"type": "brick",
+"src": "http://media.npr.org/assets/img/2014/03/31/ryan-adams1_brick-dbae4d7a396cb87fa580314922cb5a01f426961d.jpg",
+"height": "883",
+"width": "1920"
+}
+]
+}
+],
+"relatedLink": [
+{
+"id": "140934593",
+"type": "internal",
+"caption": {
+"$text": " First Listen: Ryan Adams, 'Ashes And Fire'"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/2011/09/25/140640429/first-listen-ryan-adams-ashes-and-fire?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=140640429&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "140934603",
+"type": "external",
+"caption": {
+"$text": "Ryan Adams' MySpace"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.myspace.com/ryanadams"
+}
+]
+},
+{
+"id": "140934600",
+"type": "external",
+"caption": {
+"$text": "Ryan Adams' Website"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.ryanadams.org/"
+}
+]
+}
+],
+"song": [
+{
+"id": "297159991",
+"title": {
+"$text": "Invisible Riverside"
+},
+"subtitle": {},
+"artist": {
+"$text": "Ryan Adams"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "1"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "297159947"
+},
+"albumTitle": {
+"$text": "Recorded Live For World Cafe"
+},
+"albumArtist": {
+"$text": "Ryan Adams"
+},
+"albumYear": {
+"$text": "1969"
+},
+"upc": {},
+"label": {},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "not specified"
+},
+"coverUrl": {}
+}
+},
+{
+"id": "297159993",
+"title": {
+"$text": "Ashes and Fire"
+},
+"subtitle": {},
+"artist": {
+"$text": "Ryan Adams"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "2"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "297159947"
+},
+"albumTitle": {
+"$text": "Recorded Live For World Cafe"
+},
+"albumArtist": {
+"$text": "Ryan Adams"
+},
+"albumYear": {
+"$text": "1969"
+},
+"upc": {},
+"label": {},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "not specified"
+},
+"coverUrl": {}
+}
+},
+{
+"id": "297160021",
+"title": {
+"$text": "Lucky Now"
+},
+"subtitle": {},
+"artist": {
+"$text": "Ryan Adams"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "3"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "297159947"
+},
+"albumTitle": {
+"$text": "Recorded Live For World Cafe"
+},
+"albumArtist": {
+"$text": "Ryan Adams"
+},
+"albumYear": {
+"$text": "1969"
+},
+"upc": {},
+"label": {},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "not specified"
+},
+"coverUrl": {}
+}
+},
+{
+"id": "297160031",
+"title": {
+"$text": "Dirty Rain"
+},
+"subtitle": {},
+"artist": {
+"$text": "Ryan Adams"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "4"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "297159947"
+},
+"albumTitle": {
+"$text": "Recorded Live For World Cafe"
+},
+"albumArtist": {
+"$text": "Ryan Adams"
+},
+"albumYear": {
+"$text": "1969"
+},
+"upc": {},
+"label": {},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "not specified"
+},
+"coverUrl": {}
+}
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "In this Vintage Cafe session from 2011, singer-songwriter Ryan Adams had just released the album Ashes & Fire. Adams had taken a couple years off between recording his last record with The Cardinals and this one. At the time, the delay was unusual for the prolific singer-songwriter, though he did put out a vinyl-only metal record called Orion. He also spent time relearning how to play guitar after a serious hand injury."
+},
+{
+"num": "2",
+"$text": "Adams' wheelhouse, however, is country music, and he plays from a position of power on Ashes & Fire. Songs like the title track and \"Dirty Rain\" show the soulful country influence of former tourmate Emmylou Harris, while the delicate folk of \"Rocks\" recalls the bedroom from which he's been known to work. Subdued and low-key, Ashes & Fire sounds like the work of a man who's benefited from taking time to figure it all out, and he's rarely sounded better than he does in this session. [Copyright 2015 WXPN-FM]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "In this <em>Vintage Cafe</em> session from 2011, singer-songwriter <a href=\"http://www.npr.org/artists/14953534/ryan-adams\" target=\"_self\">Ryan Adams</a> had just released the album <em>Ashes & Fire</em>. Adams had taken a couple years off between recording his last record with The Cardinals and this one. At the time, the delay was unusual for the prolific singer-songwriter, though he did put out a vinyl-only metal record called <em>Orion</em>. He also spent time relearning how to play guitar after a serious hand injury."
+},
+{
+"num": "2",
+"$text": "Adams' wheelhouse, however, is country music, and he plays from a position of power on <em>Ashes & Fire</em>. Songs like the title track and \"Dirty Rain\" show the soulful country influence of former tourmate <a href=\"http://www.npr.org/artists/14874232/emmylou-harris\" target=\"_self\">Emmylou Harris</a>, while the delicate folk of \"Rocks\" recalls the <a href=\"http://www.youtube.com/watch?v=s0SkOKLdQvo\" target=\"_blank\">bedroom from which he's been known to work</a>. Subdued and low-key, <em>Ashes & Fire</em> sounds like the work of a man who's benefited from taking time to figure it all out, and he's rarely sounded better than he does in this session.  <div class=\"fullattribution\">Copyright 2015 WXPN-FM. To see more, visit <a href=\"http://www.xpn.org/\">http://www.xpn.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Ryan+Adams+On+World+Cafe&utme=8(APIKey)9(MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001)\"/></div>"
+}
+]
+},
+"fullText": {
+"$text": "<div class=\"storytitle\">      <h1>Ryan Adams On World Cafe</h1>   <input type=\"hidden\" id=\"title140934525\" value=\"Ryan Adams On World Cafe\"></input>   <input type=\"hidden\" id=\"modelShortUrl140934525\" value=\"http://n.pr/nrzrGo\"></input>   <input type=\"hidden\" id=\"modelFullUrl140934525\" value=\"http://www.npr.org/2011/11/14/140934525/ryan-adams-on-world-cafe\"></input></div><!-- END CLASS=\"STORYTITLE\" --><div id=\"story-meta\">      <div class=\"dateblock\">            <time datetime=\"2011-11-14\"><span class=\"date\">November 14, 2011</span><span class=\"time\"> 9:32 AM ET</span></time>   </div>   <div class=\"station\">            <p><span>from</span><a target=\"_blank\" class=\"station\" href=\"http://www.xpn.org/\"  data-metrics='{\"action\":\"Click Org Association\",\"category\":\"Story Metadata\"}' ><img src='http://media.npr.org/images/stations/logos/wxpn_fm.gif' alt='WXPN' /></a></p>   </div>   <!-- END CLASS=\"STATION\" --></div><!-- END ID=\"STORY-META\" --><div id=\"primaryaudio\" class=\"storylocation linkLocation\">      <div id=\"res142300708\" class=\"bucketwrap primary resaudio  clearfix medium\">            <div class=\"player-core\">                  <div class=\"listenicon\">                        <a class=\"listen\" href=\"http://www.npr.org/templates/player/mediaPlayer.html?action=1&t=1&islist=false&id=140934525&m=142300708&d=null\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Play Audio\",\"label\":\"20111114_wc_01.mp3\"}' ></a>         </div>         <!-- END CLASS=\"LISTENICON\" -->         <div id=\"avcontent142300708\" class=\"avcontent listen shorttitle\">                        <h3><a href=\"http://www.npr.org/templates/player/mediaPlayer.html?action=1&t=1&islist=false&id=140934525&m=142300708&d=null\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Play Audio\",\"label\":\"20111114_wc_01.mp3\"}' >Listen Now</a></h3>            <div class=\"inner\">                              <div class=\"duration\">                                    <b id=\"durationCurrent142300708\" class=\"current\"></b>                  <b class=\"total\">32:19</b>               </div>            </div>            <!-- END CLASS=\"INNER\" -->            <b id=\"mediaTimeTotal142300708\" class=\"media-time-total\"><b id=\"mediaTimeCurrent142300708\" class=\"media-time-current\"></b><b class=\"scrubber\"></b></b>         </div>         <!-- END ID=\"AVCONTENT142300708\" CLASS=\"AVCONTENT LISTEN SHORTTITLE\" -->      </div>      <!-- END CLASS=\"PLAYER-CORE\" -->      <ul class=\"audiotools has-embed\">                  <li class=\"playlist\"><a class=\"add\" href=\"http://www.npr.org/templates/player/mediaPlayer.html?action=2&t=1&islist=false&id=140934525&m=142300708&d=null\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Add Audio To Playlist\",\"label\":\"20111114_wc_01.mp3\"}' ><span>Playlist</span></a></li>         <li><a class=\"embed\" href=\"#\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Embed\",\"label\":\"20111114_wc_01.mp3\"}' ><span>Embed</span></a><div class=\"audio-embed-modal\">      <b class=\"embed-label\">Embed</b>   <button class=\"embed-close\">Close embed modal</button>   <b class=\"embed-url embed-url-touch\"><code><b class=\"punctuation\"><</b>iframe src=\"http://www.npr.org/player/embed/140934525/142300708\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\"></iframe></code></b>   <input class=\"embed-url embed-url-no-touch\" readonly value=\"<iframe src=\"http://www.npr.org/player/embed/140934525/142300708\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\"></iframe>\"></input></div></li>      </ul>   </div>   <!-- END ID=\"RES142300708\" CLASS=\"BUCKETWRAP PRIMARY RESAUDIO  CLEARFIX MEDIUM\" --></div><div id=\"storytext\" class=\"storytext storylocation linkLocation\">      <div id=\"res297167346\" class=\"bucketwrap image large\" previewTitle=\"Ryan Adams.\">            <div class=\"imagewrap\" data-crop-type=\"\">    <img src=\"http://media.npr.org/assets/img/2014/03/31/ryan-adams1_wide-a0f2cb6071f28170b3a596d5d58f61566bc4b91b-s1000.jpg\" title=\"Ryan Adams.\" alt=\"Ryan Adams.\" /></div><div class=\"credit-caption\">    <div class=\"caption\">        <p><i>            Ryan Adams.            </i>        </p>    </div>        <span class=\"credit\">                Courtesy of the artist            </span></div>   </div>   <p>In this <em>Vintage Cafe</em> session from 2011, singer-songwriter <a href=\"http://www.npr.org/artists/14953534/ryan-adams\" target=\"_self\">Ryan Adams</a> had just released the album <em>Ashes & Fire</em>. Adams had taken a couple years off between recording his last record with The Cardinals and this one. At the time, the delay was unusual for the prolific singer-songwriter, though he did put out a vinyl-only metal record called <em>Orion</em>. He also spent time relearning how to play guitar after a serious hand injury.</p>   <p>Adams' wheelhouse, however, is country music, and he plays from a position of power on <em>Ashes & Fire</em>. Songs like the title track and \"Dirty Rain\" show the soulful country influence of former tourmate <a href=\"http://www.npr.org/artists/14874232/emmylou-harris\" target=\"_self\">Emmylou Harris</a>, while the delicate folk of \"Rocks\" recalls the <a href=\"http://www.youtube.com/watch?v=s0SkOKLdQvo\" target=\"_blank\">bedroom from which he's been known to work</a>. Subdued and low-key, <em>Ashes & Fire</em> sounds like the work of a man who's benefited from taking time to figure it all out, and he's rarely sounded better than he does in this session.</p></div><div class=\"fullattribution\">Copyright 2015 WXPN-FM. To see more, visit <a href=\"http://www.xpn.org/\">http://www.xpn.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Ryan+Adams+On+World+Cafe&utme=8(APIKey)9(MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001)\"/></div>"
+},
+"collection": [
+{
+"type": "list",
+"displayType": "Music Classic Playlist",
+"id": "297163785",
+"title": {
+"$text": "Set List"
+},
+"introText": {},
+"member": [
+{
+"refId": "297163787",
+"num": "1",
+"label": "none"
+},
+{
+"refId": "297163876",
+"num": "2",
+"label": "none"
+},
+{
+"refId": "297163903",
+"num": "3",
+"label": "none"
+},
+{
+"refId": "297163916",
+"num": "4",
+"label": "none"
+}
+]
+}
+],
+"member": [
+{
+"id": "297163787",
+"title": {
+"num": "1",
+"$text": "'Invisible Riverside'"
+},
+"song": {
+"refId": "297159991",
+"num": "2"
+}
+},
+{
+"id": "297163876",
+"title": {
+"num": "1",
+"$text": "'Ashes And Fire'"
+},
+"song": {
+"refId": "297159993",
+"num": "2"
+}
+},
+{
+"id": "297163903",
+"title": {
+"num": "1",
+"$text": "'Lucky Now'"
+},
+"song": {
+"refId": "297160021",
+"num": "2"
+}
+},
+{
+"id": "297163916",
+"title": {
+"num": "1",
+"$text": "'Dirty Rain'"
+},
+"song": {
+"refId": "297160031",
+"num": "2"
+}
+}
+]
+},
+{
+"id": "141659319",
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/2011/10/24/141659319/ryan-adams-relentless-reinvention?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=141659319&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+},
+{
+"type": "short",
+"$text": "http://n.pr/sF41GB"
+}
+],
+"title": {
+"$text": "Ryan Adams: Relentless Reinvention"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "From crooning to raging metal to country, Adams  can successfully crib just about  any style of popular music he  chooses. But on the recent <em>Ashes & Fire</em>, and in this session from WFUV, his soulful  side shines through."
+},
+"miniTeaser": {
+"$text": "He's done it all: metal, country, garage rock. Now, Adams shows off his soulful side on WFUV."
+},
+"slug": {
+"$text": "Favorite Sessions"
+},
+"thumbnail": {
+"medium": {
+"$text": "http://media.npr.org/assets/img/2011/10/24/6237799492_f4708ee0b1_b_sq-634e77ca4c5f974bd1ee9aec2ba154f5b39ec826.jpg?s=13"
+},
+"large": {
+"$text": "http://media.npr.org/assets/img/2011/10/24/6237799492_f4708ee0b1_b_sq-634e77ca4c5f974bd1ee9aec2ba154f5b39ec826.jpg?s=11"
+},
+"provider": {
+"$text": "WFUV"
+}
+},
+"storyDate": {
+"$text": "Tue, 25 Oct 2011 16:33:00 -0400"
+},
+"pubDate": {
+"$text": "Tue, 25 Oct 2011 16:34:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Tue, 25 Oct 2011 16:34:21 -0400"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "393",
+"orgAbbr": "WFUV",
+"name": {
+"$text": "WFUV-FM"
+},
+"website": {
+"$text": "http://www.wfuv.org"
+}
+}
+],
+"parent": [
+{
+"id": "1103",
+"type": "primaryTopic",
+"title": {
+"$text": "Studio Sessions"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/studio-sessions/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1103&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "10001",
+"type": "genre",
+"title": {
+"$text": "Rock"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/genres/rock/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=10001&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1103",
+"type": "topic",
+"title": {
+"$text": "Studio Sessions"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/sections/studio-sessions/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1103&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1039",
+"type": "topic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "15667984",
+"type": "series",
+"slug": "true",
+"title": {
+"$text": "Favorite Sessions"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/15667984/favorite-sessions?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=15667984&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"byline": [
+{
+"id": "141659333",
+"name": {
+"personId": "14031354",
+"$text": "Claudia Marshall"
+},
+"link": [
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=14031354&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"container": [
+{
+"id": "141659815",
+"title": {
+"$text": "Hear More Songs From The Session"
+},
+"introText": {},
+"colSpan": {
+"$text": "1"
+},
+"displayOptions": {
+"typeId": "2",
+"$text": "Display Both"
+}
+},
+{
+"id": "141659822",
+"title": {
+"$text": "Watch Videos"
+},
+"introText": {},
+"colSpan": {
+"$text": "1"
+},
+"displayOptions": {
+"typeId": "2",
+"$text": "Display Both"
+},
+"listText": {
+"refId": "141659974",
+"num": "1"
+}
+},
+{
+"id": "141659976",
+"title": {
+"$text": "Related NPR Stories"
+},
+"introText": {},
+"colSpan": {},
+"displayOptions": {
+"typeId": "0",
+"$text": "Hide Both"
+},
+"link": [
+{
+"refId": "141659977",
+"num": "1"
+}
+]
+}
+],
+"image": [
+{
+"id": "141659802",
+"type": "primary",
+"width": "200",
+"src": "http://media.npr.org/assets/img/2011/10/24/6237799492_f4708ee0b1_b_wide-db761fa31a013864f41132e7c94dbbcc1635bbb9.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Ryan Adams, in WFUV's Studio A in New York."
+},
+"caption": {
+"$text": "<p>Ryan Adams, in WFUV's Studio A in New York.</p>"
+},
+"link": {
+"url": ""
+},
+"producer": {
+"$text": "Joe Grimaldi"
+},
+"provider": {
+"url": "",
+"$text": "WFUV"
+},
+"copyright": {},
+"enlargement": {
+"src": "http://media.npr.org/assets/img/2011/10/24/6237799492_f4708ee0b1_b_wide-db761fa31a013864f41132e7c94dbbcc1635bbb9.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "http://media.npr.org/assets/img/2011/10/24/6237799492_f4708ee0b1_b-034dfea75ace554b53b30ab3e89c980efa745cbf.jpg",
+"height": "664",
+"width": "885"
+},
+{
+"type": "square",
+"src": "http://media.npr.org/assets/img/2011/10/24/6237799492_f4708ee0b1_b_sq-634e77ca4c5f974bd1ee9aec2ba154f5b39ec826.jpg",
+"height": "664",
+"width": "664"
+},
+{
+"type": "wide",
+"src": "http://media.npr.org/assets/img/2011/10/24/6237799492_f4708ee0b1_b_wide-db761fa31a013864f41132e7c94dbbcc1635bbb9.jpg",
+"height": "561",
+"width": "1000",
+"primary": "true"
+},
+{
+"type": "enlargement",
+"src": "http://media.npr.org/assets/img/2011/10/24/6237799492_f4708ee0b1_b_wide-db761fa31a013864f41132e7c94dbbcc1635bbb9.jpg",
+"height": "561",
+"width": "1000"
+},
+{
+"type": "brick",
+"src": "http://media.npr.org/assets/img/2011/10/24/6237799492_f4708ee0b1_b_brick-c5e675ca952d923335dab44e0b7852df4faaf235.jpg",
+"height": "459",
+"width": "1000"
+}
+]
+}
+],
+"relatedLink": [
+{
+"id": "141659977",
+"type": "internal",
+"caption": {
+"$text": " First Listen: Ryan Adams, 'Ashes And Fire'"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/2011/09/25/140640429/first-listen-ryan-adams-ashes-and-fire?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=140640429&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"listText": [
+{
+"id": "141659974",
+"tag": "p",
+"paragraph": [
+{
+"num": "1",
+"$text": "<a href=\"http://www.youtube.com/watch?v=pOM1eVrR-0g\" target=\"_self\">\"Lucky Now\"</a>"
+},
+{
+"num": "2",
+"$text": "<a href=\"http://www.youtube.com/watch?v=5ZnIQODABtw\" target=\"_self\">\"Invisible Riverside\"</a>"
+},
+{
+"num": "3",
+"$text": "<a href=\"http://www.youtube.com/watch?v=pXhbp40WLnQ\" target=\"_self\">\"My Winding Wheel\"</a>"
+}
+]
+}
+],
+"song": [
+{
+"id": "141696198",
+"title": {
+"$text": "Lucky Now"
+},
+"subtitle": {},
+"artist": {
+"$text": "Ryan Adams"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "1"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "141696197"
+},
+"albumTitle": {
+"$text": "Ryan Adams in Studio at WFUV"
+},
+"albumArtist": {
+"$text": "Ryan Adams"
+},
+"albumYear": {
+"$text": "2011"
+},
+"upc": {},
+"label": {
+"$text": "WFUV"
+},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "rock"
+},
+"coverUrl": {}
+}
+},
+{
+"id": "141696219",
+"title": {
+"$text": "My Winding Wheel"
+},
+"subtitle": {},
+"artist": {
+"$text": "Ryan Adams"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "3"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "141696197"
+},
+"albumTitle": {
+"$text": "Ryan Adams in Studio at WFUV"
+},
+"albumArtist": {
+"$text": "Ryan Adams"
+},
+"albumYear": {
+"$text": "2011"
+},
+"upc": {},
+"label": {
+"$text": "WFUV"
+},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "rock"
+},
+"coverUrl": {}
+}
+},
+{
+"id": "141696203",
+"title": {
+"$text": "Invisible Riverside"
+},
+"subtitle": {},
+"artist": {
+"$text": "Ryan Adams"
+},
+"composer": {},
+"discNum": {
+"$text": "1"
+},
+"trackNum": {
+"$text": "2"
+},
+"licensing": {},
+"publisher": {},
+"album": {
+"albumId": {
+"$text": "141696197"
+},
+"albumTitle": {
+"$text": "Ryan Adams in Studio at WFUV"
+},
+"albumArtist": {
+"$text": "Ryan Adams"
+},
+"albumYear": {
+"$text": "2011"
+},
+"upc": {},
+"label": {
+"$text": "WFUV"
+},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "rock"
+},
+"coverUrl": {}
+}
+}
+],
+"performance": [
+{
+"id": "141696197",
+"title": {
+"$text": "Ryan Adams in Studio at WFUV"
+},
+"artist": {
+"$text": "Ryan Adams"
+},
+"albumYear": {
+"$text": "23"
+},
+"upc": {},
+"label": {
+"$text": "WFUV"
+},
+"labelNum": {},
+"promoUrl": {},
+"musicType": {
+"$text": "rock"
+},
+"coverUrl": {}
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Two years ago, when Ryan Adams announced a hiatus from music, he also revealed that  he suffers from Ménière's disease, an inner-ear disorder that causes vertigo  and hearing loss.  It's a disease you wouldn't wish on anyone, let alone a  prolific musician. So Adams' new album, Ashes & Fire, marks a welcome  return on many levels — for a while, we really didn't know if he'd make another album."
+},
+{
+"num": "2",
+"$text": "We also didn't know which Ryan Adams we were going to get.  From crooning to raging metal to country, he can successfully crib just about  any style of popular music he chooses. Perhaps it's the sober, healthy living  and his marriage to Mandy Moore, but on Ashes & Fire, Adams' soulful  and low-key side shines through."
+},
+{
+"num": "3",
+"$text": "In his conversation with WFUV, Adams gives much of  the credit to venerable producer Glyn Johns, and to guests Benmont Tench and Greg  Leisz, who provided delicious textures on keyboards and lap steel, respectively.  That modesty, of course, discounts Adams' own songwriting gifts, which are in fine form throughout this spare and mellow performance of two new songs (as well as a favorite from Heartbreaker) from WFUV's Studio A. [Copyright 2015 WFUV-FM]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Two years ago, when <a href=\"http://www.npr.org/artists/14953534/ryan-adams\" target=\"_self\">Ryan Adams</a> announced a hiatus from music, he also revealed that  he suffers from Ménière's disease, an inner-ear disorder that causes vertigo  and hearing loss.  It's a disease you wouldn't wish on anyone, let alone a  prolific musician. So Adams' new album, <em>Ashes & Fire,</em> marks a welcome  return on many levels — for a while, we really didn't know if he'd make another album."
+},
+{
+"num": "2",
+"$text": "We also didn't know which Ryan Adams we were going to get.  From crooning to raging metal to country, he can successfully crib just about  any style of popular music he chooses. Perhaps it's the sober, healthy living  and his marriage to Mandy Moore, but on <em>Ashes & Fire</em>, Adams' soulful  and low-key side shines through."
+},
+{
+"num": "3",
+"$text": "In his conversation with WFUV, Adams gives much of  the credit to venerable producer Glyn Johns, and to guests Benmont Tench and Greg  Leisz, who provided delicious textures on keyboards and lap steel, respectively.  That modesty, of course, discounts Adams' own songwriting gifts, which are in fine form throughout this spare and mellow performance of two new songs (as well as a favorite from <em>Heartbreaker</em>) from <a href=\"http://wfuv.org/\" target=\"_blank\">WFUV</a>'s Studio A.  <div class=\"fullattribution\">Copyright 2015 WFUV-FM. To see more, visit <a href=\"http://www.wfuv.org\">http://www.wfuv.org</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Ryan+Adams%3A+Relentless+Reinvention&utme=8(APIKey)9(MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001)\"/></div>"
+}
+]
+}
+},
+{
+"id": "140640429",
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/2011/09/25/140640429/first-listen-ryan-adams-ashes-and-fire?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=140640429&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+},
+{
+"type": "short",
+"$text": "http://n.pr/qK3G7W"
+}
+],
+"title": {
+"$text": "First Listen: Ryan Adams, 'Ashes And Fire'"
+},
+"subtitle": {},
+"shortTitle": {},
+"teaser": {
+"$text": "In the wake of a high-profile marriage, a trying bout with ear disease, and a two-year break from music, Adams returns with his sparest, mellowest record to date."
+},
+"miniTeaser": {
+"$text": "After getting married and battling ear disease, Adams returns with a sweet, spare honeymoon album."
+},
+"slug": {
+"$text": "First Listen"
+},
+"thumbnail": {
+"medium": {
+"$text": "http://media.npr.org/assets/img/2011/09/20/ryanadams_2_bydavidblack1_sq-d9501b2692be622a7896e08e5ca4935555abafb9.jpg?s=13"
+},
+"large": {
+"$text": "http://media.npr.org/assets/img/2011/09/20/ryanadams_2_bydavidblack1_sq-d9501b2692be622a7896e08e5ca4935555abafb9.jpg?s=11"
+},
+"provider": {
+"$text": "David Black"
+}
+},
+"storyDate": {
+"$text": "Sun, 25 Sep 2011 22:33:00 -0400"
+},
+"pubDate": {
+"$text": "Fri, 03 Aug 2012 17:45:00 -0400"
+},
+"lastModifiedDate": {
+"$text": "Fri, 03 Aug 2012 17:45:22 -0400"
+},
+"audioRunByDate": {},
+"keywords": {},
+"priorityKeywords": {},
+"organization": [
+{
+"orgId": "393",
+"orgAbbr": "WFUV",
+"name": {
+"$text": "WFUV-FM"
+},
+"website": {
+"$text": "http://www.wfuv.org"
+}
+}
+],
+"parent": [
+{
+"id": "1039",
+"type": "primaryTopic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "98679384",
+"type": "series",
+"slug": "true",
+"title": {
+"$text": "First Listen"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/series/98679384/first-listen?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=98679384&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "10001",
+"type": "genre",
+"title": {
+"$text": "Rock"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/genres/rock/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=10001&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+},
+{
+"id": "1039",
+"type": "topic",
+"title": {
+"$text": "Music"
+},
+"link": [
+{
+"type": "html",
+"$text": "http://www.npr.org/music/?ft=nprml&f=14953534"
+},
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=1039&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"byline": [
+{
+"id": "140719988",
+"name": {
+"personId": "14031354",
+"$text": "Claudia Marshall"
+},
+"link": [
+{
+"type": "api",
+"$text": "http://api.npr.org/query?id=14031354&meta=inherit&apiKey=MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001"
+}
+]
+}
+],
+"image": [
+{
+"id": "140645231",
+"type": "primary",
+"width": "200",
+"src": "http://media.npr.org/assets/img/2011/09/20/ryanadams_2_bydavidblack1_wide-1bce6c36461b7d83b5ae3014c88fc163bedd47e0.jpg?s=12",
+"hasBorder": "false",
+"title": {
+"$text": "Ryan Adams' new album, Ashes & Fire, comes out Oct. 11."
+},
+"caption": {
+"$text": "Ryan Adams' new album, <em>Ashes & Fire</em>, comes out Oct. 11."
+},
+"link": {
+"url": ""
+},
+"producer": {},
+"provider": {
+"url": "",
+"$text": "David Black"
+},
+"copyright": {},
+"enlargement": {
+"src": "http://media.npr.org/assets/img/2011/09/20/ryanadams_2_bydavidblack1_wide-1bce6c36461b7d83b5ae3014c88fc163bedd47e0.jpg",
+"caption": {}
+},
+"crop": [
+{
+"type": "standard",
+"src": "http://media.npr.org/assets/img/2011/09/20/ryanadams_2_bydavidblack1-45ee90dbb2ea1d54427a9ffc5b7134dc74ec3bdd.jpg",
+"height": "692",
+"width": "923"
+},
+{
+"type": "square",
+"src": "http://media.npr.org/assets/img/2011/09/20/ryanadams_2_bydavidblack1_sq-d9501b2692be622a7896e08e5ca4935555abafb9.jpg",
+"height": "631",
+"width": "631"
+},
+{
+"type": "wide",
+"src": "http://media.npr.org/assets/img/2011/09/20/ryanadams_2_bydavidblack1_wide-1bce6c36461b7d83b5ae3014c88fc163bedd47e0.jpg",
+"height": "549",
+"width": "977",
+"primary": "true"
+},
+{
+"type": "enlargement",
+"src": "http://media.npr.org/assets/img/2011/09/20/ryanadams_2_bydavidblack1_wide-1bce6c36461b7d83b5ae3014c88fc163bedd47e0.jpg",
+"height": "549",
+"width": "977"
+},
+{
+"type": "brick",
+"src": "http://media.npr.org/assets/img/2011/09/20/ryanadams_2_bydavidblack1_brick-4e4c7b8d673925d9e38b5189ffcbdb08697408d0.jpg",
+"height": "302",
+"width": "657"
+}
+]
+}
+],
+"text": {
+"paragraph": [
+{
+"num": "1",
+"$text": "Audio for this feature is no longer available."
+},
+{
+"num": "2",
+"$text": "You never know which Ryan Adams you're going to get. Is he crooning, or is he raging? Is the music metal, or twangy country? He can successfully crib just about any style of popular music he chooses: the Dead, the Stones, The Flying Burrito Brothers — it's all in his wheelhouse. You can't help but ask: Will the real Ryan Adams ever stand up?  Now, throw into that complex mix his recent marriage to Mandy Moore, a two-year hiatus from music (long for him, certainly), and a chronic and painful inner-ear affliction called Ménière's disease, which apparently causes him to hear strange tones and fall over things. No, it's not the drink or drugs: He says he's clean and living healthy. In a recent interview, Adams said he's had to completely relearn music because of the Ménière's.   This time out, we have a happy (we hope) and clean (we'll take his word) Adams, making perhaps his sparest, mellowest record to date. His wife makes an appearance, singing a lovely, high harmony, and his friend Norah Jones pitches in, too. At the controls is the venerable Glyn Johns (father of Adams' sometime producer, Ethan Johns), who, at nearly 70, has records to his credit by The Who, The Rolling Stones, Eric Clapton and more.   The result, Ashes & Fire, is soulful and low-key; not without edge but certainly more lean and hushed than, say, Easy Tiger. The lyrics are considerably softer — \"I will shelter you with my love and my forgiveness,\" he sings, later adding, \"Do you believe in love?\" — but he's allowed to have a honeymoon record, right?   It helps that Ashes & Fire, out Oct. 11, features the delicious work of keyboardist Benmont Tench, on loan from Tom Petty & The Heartbreakers. Tench adds color and character, particularly in \"Dirty Rain.\" It's not his first time working with Adams, and here's hoping it's not the last. [Copyright 2015 WFUV-FM]"
+}
+]
+},
+"textWithHtml": {
+"paragraph": [
+{
+"num": "1",
+"$text": "<em>Audio for this feature is no longer available.</em>"
+},
+{
+"num": "2",
+"$text": "You never know which <a href=\"http://www.npr.org/artists/14953534/ryan-adams\">Ryan Adams</a> you're going to get. Is he crooning, or is he raging? Is the music metal, or twangy country? He can successfully crib just about any style of popular music he chooses: the <a href=\"http://www.npr.org/artists/15440218/grateful-dead\" target=\"_blank\">Dead</a>, the <a href=\"http://www.npr.org/templates/story/story.php?storyId=15403019\" target=\"_blank\">Stones</a>, The Flying Burrito Brothers — it's all in his wheelhouse. You can't help but ask: Will the real Ryan Adams ever stand up?<br /> <br /> Now, throw into that complex mix his recent marriage to Mandy Moore, a two-year hiatus from music (long for him, certainly), and a chronic and painful inner-ear affliction called Ménière's disease, which apparently causes him to hear strange tones and fall over things. No, it's not the drink or drugs: He says he's clean and living healthy. In a recent interview, Adams said he's had to completely relearn music because of the Ménière's. <br /> <br /> This time out, we have a happy (we hope) and clean (we'll take his word) Adams, making perhaps his sparest, mellowest record to date. His wife makes an appearance, singing a lovely, high harmony, and his friend <a href=\"http://www.npr.org/artists/15012277/norah-jones\">Norah Jones</a> pitches in, too. At the controls is the venerable Glyn Johns (father of Adams' sometime producer, Ethan Johns), who, at nearly 70, has records to his credit by <a href=\"http://www.npr.org/templates/story/story.php?storyId=15397669\" target=\"_blank\">The Who</a>, The Rolling Stones, <a href=\"http://www.npr.org/templates/story/story.php?storyId=15381813\" target=\"_blank\">Eric Clapton</a> and more. <br /> <br /> The result, <em>Ashes & Fire</em>, is soulful and low-key; not without edge but certainly more lean and hushed than, say, <em>Easy Tiger</em>. The lyrics are considerably softer — \"I will shelter you with my love and my forgiveness,\" he sings, later adding, \"Do you believe in love?\" — but he's allowed to have a honeymoon record, right? <br /> <br /> It helps that <em>Ashes & Fire</em>, out Oct. 11, features the delicious work of keyboardist Benmont Tench, on loan from <a href=\"http://www.npr.org/templates/story/story.php?storyId=15300677\" target=\"_blank\">Tom Petty & The Heartbreakers</a>. Tench adds color and character, particularly in \"Dirty Rain.\" It's not his first time working with Adams, and here's hoping it's not the last.  <div class=\"fullattribution\">Copyright 2015 WFUV-FM. To see more, visit <a href=\"http://www.wfuv.org\">http://www.wfuv.org</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=First+Listen%3A+Ryan+Adams%2C+%27Ashes+And+Fire%27&utme=8(APIKey)9(MDE5MzM2MjA0MDE0MzI4Mzc0MTYyMDdkMw001)\"/></div>"
+}
+]
+}
+}
+]
+}
+}
