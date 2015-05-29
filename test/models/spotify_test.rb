@@ -8,7 +8,7 @@ require './app/models/spotify_search_album'
 class SpotifySearchArtist
 
   private def path
-    JSON.parse(File.open("./test/blitzen_trapper.json").read)
+    JSON.parse(File.open("./test/spotify_blitzen_trapper.json").read)
   end
 
 end
