@@ -3,7 +3,7 @@ require './app/models/spotify_search_playlist'
 
 class SpotifySearchPlaylist
 
-  private def get_path
+  def get_path
     JSON.parse(File.open("./test/spotify_blues.json").read)
   end
 
@@ -14,7 +14,7 @@ class SpotifyTest < ActiveSupport::TestCase
 
   def test_spotify_playlist_genre
     blues = SpotifySearchPlaylist.new("Blues")
-    assert_equal "http://open.spotify.com/user/sonymusicthelegacy/playlist/57zcG5rzNtI8DYrUz0nVsP", blues.playlist
+    assert_equal "https://api.spotify.com/v1/search?query=blues&offset=0&limit=20&type=playlist", blues.get_path['playlists']['href']
   end
 
 

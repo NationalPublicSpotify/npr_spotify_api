@@ -1,11 +1,12 @@
 
 class NprArtist
-  attr_reader :input, :subcategory, :artist_id
+  attr_reader :input, :subcategory, :artist_id, :artist_page
 
   def initialize(input)
     @input = input
     @subcategory = get_subcategory['subcategory']
     @artist_id = subcategory_iteration
+    @artist_page = get_artist_page
   end
 
   def subcategory_iteration
@@ -17,15 +18,17 @@ class NprArtist
     "artist not found"
   end
 
-
+  def get_articles
+    artist_page['nprml']['list']['story'][0]['link'][0]['__content__']
+  end
 
   private def get_subcategory
     unparsed_artist = HTTParty.get("http://api.npr.org/list?id=3009&output=json")
     JSON.parse(unparsed_artist)
   end
 
-  def artist_page
-    HTTParty.get("http://api.npr.org/query?id=162810939&apiKey=#{ENV['NPR_KEY']}")
+  def get_artist_page
+    HTTParty.get("http://api.npr.org/query?id=#{artist_id}&apiKey=#{ENV['NPR_KEY']}")
   end
 
 end

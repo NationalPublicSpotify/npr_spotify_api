@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
 
-  get 'music/show'
+  get 'api/v1/music/playlist' => 'music#playlist'
+  get 'api/v1/music/artist' => 'music#artist'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
