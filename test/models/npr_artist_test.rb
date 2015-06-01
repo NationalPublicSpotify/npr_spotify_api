@@ -17,4 +17,8 @@ class NprTest < ActiveSupport::TestCase
     assert_equal 'artist not found', nobody.artist_id
   end
 
+  def test_get_artist_img
+    
+  end
+
 end
